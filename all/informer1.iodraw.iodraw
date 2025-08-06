@@ -25,6 +25,9 @@
         <mxCell id="g12mu7miM2ZYD0wP9tqr-10" value="编码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="451" y="284" width="73" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="g12mu7miM2ZYD0wP9tqr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="g12mu7miM2ZYD0wP9tqr-11" target="g12mu7miM2ZYD0wP9tqr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g12mu7miM2ZYD0wP9tqr-11" value="输入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="259" y="371" width="82" height="31" as="geometry" />
         </mxCell>
