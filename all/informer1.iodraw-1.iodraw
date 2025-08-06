@@ -4,18 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="beorA4CVvn_kF5xPa1jf-19" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="458" y="158" width="91" height="131" as="geometry" />
-        </mxCell>
-        <mxCell id="beorA4CVvn_kF5xPa1jf-16" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="beorA4CVvn_kF5xPa1jf-19">
-          <mxGeometry width="91" height="131" as="geometry" />
-        </mxCell>
-        <mxCell id="beorA4CVvn_kF5xPa1jf-17" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=1.8000030517578125;fillColor=#677381;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="beorA4CVvn_kF5xPa1jf-19">
-          <mxGeometry x="6.824999999999999" y="64.67088607594937" width="77.35" height="9.120253164556962" as="geometry" />
-        </mxCell>
-        <mxCell id="beorA4CVvn_kF5xPa1jf-18" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=1.8000030517578125;fillColor=#677381;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="beorA4CVvn_kF5xPa1jf-19">
-          <mxGeometry x="14.21875" width="62.5625" height="9.120253164556962" as="geometry" />
-        </mxCell>
         <mxCell id="beorA4CVvn_kF5xPa1jf-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="57" y="63" width="306" height="263" as="geometry" />
         </mxCell>
@@ -27,6 +15,18 @@
         </mxCell>
         <mxCell id="beorA4CVvn_kF5xPa1jf-6" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=1.8000030517578125;fillColor=#677381;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="163.75" y="101" width="82.5" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="beorA4CVvn_kF5xPa1jf-19" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="294" y="187" width="76" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="beorA4CVvn_kF5xPa1jf-16" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="beorA4CVvn_kF5xPa1jf-19">
+          <mxGeometry width="76" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="beorA4CVvn_kF5xPa1jf-17" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=1.8000030517578125;fillColor=#677381;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="beorA4CVvn_kF5xPa1jf-19">
+          <mxGeometry x="5.699999999999999" y="57.75949367088608" width="64.6" height="8.145569620253164" as="geometry" />
+        </mxCell>
+        <mxCell id="beorA4CVvn_kF5xPa1jf-18" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=1.8000030517578125;fillColor=#677381;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="beorA4CVvn_kF5xPa1jf-19">
+          <mxGeometry x="11.875" width="52.25" height="8.145569620253164" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
