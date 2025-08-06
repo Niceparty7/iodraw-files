@@ -4,31 +4,31 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="g12mu7miM2ZYD0wP9tqr-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g12mu7miM2ZYD0wP9tqr-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="205" y="137" width="411" height="212" as="geometry" />
         </mxCell>
-        <mxCell id="g12mu7miM2ZYD0wP9tqr-3" value="编码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="g12mu7miM2ZYD0wP9tqr-3" value="编码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="263.5" y="165" width="73" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g12mu7miM2ZYD0wP9tqr-5" value="编码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="g12mu7miM2ZYD0wP9tqr-5" value="编码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="263.5" y="228" width="73" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g12mu7miM2ZYD0wP9tqr-6" value="编码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="g12mu7miM2ZYD0wP9tqr-6" value="编码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="263.5" y="284" width="73" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g12mu7miM2ZYD0wP9tqr-7" value="编码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="g12mu7miM2ZYD0wP9tqr-7" value="编码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="451" y="165" width="73" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g12mu7miM2ZYD0wP9tqr-9" value="编码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="g12mu7miM2ZYD0wP9tqr-9" value="编码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="451" y="224" width="73" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g12mu7miM2ZYD0wP9tqr-10" value="编码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="g12mu7miM2ZYD0wP9tqr-10" value="编码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="451" y="284" width="73" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="g12mu7miM2ZYD0wP9tqr-11" value="输入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="254.5" y="367" width="82" height="31" as="geometry" />
+        <mxCell id="g12mu7miM2ZYD0wP9tqr-11" value="输入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="259" y="371" width="82" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="g12mu7miM2ZYD0wP9tqr-13" value="输入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="g12mu7miM2ZYD0wP9tqr-13" value="输入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="446.5" y="84" width="82" height="31" as="geometry" />
         </mxCell>
       </root>
