@@ -8,10 +8,10 @@
           <mxGeometry x="89" y="68" width="306" height="263" as="geometry" />
         </mxCell>
         <mxCell id="beorA4CVvn_kF5xPa1jf-2" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="113" y="98" width="120" height="158" as="geometry" />
+          <mxGeometry x="145" y="101" width="120" height="158" as="geometry" />
         </mxCell>
         <mxCell id="beorA4CVvn_kF5xPa1jf-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="67" y="201" width="126" height="12" as="geometry" />
+          <mxGeometry x="136" y="190" width="126" height="12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
