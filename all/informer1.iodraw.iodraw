@@ -8,13 +8,13 @@
           <mxGeometry x="205" y="137" width="411" height="212" as="geometry" />
         </mxCell>
         <mxCell id="g12mu7miM2ZYD0wP9tqr-3" value="编码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="257" y="165" width="73" height="30" as="geometry" />
+          <mxGeometry x="263.5" y="165" width="73" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g12mu7miM2ZYD0wP9tqr-5" value="编码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="259" y="213" width="73" height="30" as="geometry" />
+          <mxGeometry x="263.5" y="228" width="73" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g12mu7miM2ZYD0wP9tqr-6" value="编码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="259" y="266" width="73" height="30" as="geometry" />
+          <mxGeometry x="263.5" y="284" width="73" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g12mu7miM2ZYD0wP9tqr-7" value="编码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="449" y="165" width="73" height="30" as="geometry" />
