@@ -19,7 +19,7 @@
         <mxCell id="beorA4CVvn_kF5xPa1jf-19" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="458" y="158" width="120" height="158" as="geometry" />
         </mxCell>
-        <mxCell id="beorA4CVvn_kF5xPa1jf-16" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="beorA4CVvn_kF5xPa1jf-19">
+        <mxCell id="beorA4CVvn_kF5xPa1jf-16" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="beorA4CVvn_kF5xPa1jf-19">
           <mxGeometry width="120" height="158" as="geometry" />
         </mxCell>
         <mxCell id="beorA4CVvn_kF5xPa1jf-17" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=1.8000030517578125;fillColor=#677381;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="beorA4CVvn_kF5xPa1jf-19">
