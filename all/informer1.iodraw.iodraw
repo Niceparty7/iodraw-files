@@ -71,7 +71,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g12mu7miM2ZYD0wP9tqr-23" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft Yahei&amp;quot;, 微软雅黑, 宋体, 宋体, Tahoma, Arial, Helvetica, STHeiti; font-size: 20px; letter-spacing: 3px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;✕&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft Yahei&amp;quot;, 微软雅黑, 宋体, 宋体, Tahoma, Arial, Helvetica, STHeiti; font-size: 20px; letter-spacing: 3px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;N&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="341" y="281" width="60" height="30" as="geometry" />
+          <mxGeometry x="341" y="284" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
