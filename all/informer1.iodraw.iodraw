@@ -7,11 +7,8 @@
         <mxCell id="g12mu7miM2ZYD0wP9tqr-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="137" width="411" height="212" as="geometry" />
         </mxCell>
-        <mxCell id="g12mu7miM2ZYD0wP9tqr-3" value="编码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="g12mu7miM2ZYD0wP9tqr-3" value="编码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="257" y="165" width="73" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="g12mu7miM2ZYD0wP9tqr-4" value="编码器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="208" width="73" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
