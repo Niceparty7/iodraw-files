@@ -335,6 +335,9 @@
         <mxCell id="ck4myvduiOFmaUWNDz5i-179" value="多头概率稀疏自注意力" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="167" y="202" width="76" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="ck4myvduiOFmaUWNDz5i-180" value="多头概率稀疏自注意力" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="204" y="43" width="76" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
