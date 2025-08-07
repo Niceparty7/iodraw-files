@@ -34,7 +34,8 @@
         <mxCell id="DZGh_-k8ClZEZPDrQXv--236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=黑体;fontSize=16;fontColor=default;labelBorderColor=default;resizable=1;" edge="1" parent="1" source="DZGh_-k8ClZEZPDrQXv--11" target="DZGh_-k8ClZEZPDrQXv--234">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="699" y="130" />
+              <mxPoint x="657" y="130" />
+              <mxPoint x="922" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -426,7 +427,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--234" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;整合特征模块&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffeace;fontFamily=黑体;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="922" y="-252" width="20" height="575" as="geometry" />
+          <mxGeometry x="925" y="-158" width="20" height="575" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--238" value="输出全局特征Informer" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=黑体;fontSize=16;fontColor=default;labelBorderColor=default;" vertex="1" parent="1">
           <mxGeometry x="710" y="107" width="178" height="31" as="geometry" />
