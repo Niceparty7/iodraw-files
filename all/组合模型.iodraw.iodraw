@@ -396,7 +396,7 @@
           <mxGeometry x="481" y="26" width="314" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--91" value="&lt;b&gt;一卷卷积层&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#d8f3ff;fontFamily=黑体;" vertex="1" parent="1">
-          <mxGeometry x="481" y="49" width="314" height="20" as="geometry" />
+          <mxGeometry x="471" y="71" width="314" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
