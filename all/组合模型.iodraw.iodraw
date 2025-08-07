@@ -212,7 +212,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--50" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;labelBorderColor=default;shadow=0;swimlaneLine=1;fontFamily=黑体;" vertex="1" parent="1">
-          <mxGeometry x="486.25" y="332" width="140.5" height="42.08" as="geometry" />
+          <mxGeometry x="486.25" y="331" width="140.5" height="42.08" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--51" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=#8089A9;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;opacity=80;fontFamily=黑体;" vertex="1" parent="DZGh_-k8ClZEZPDrQXv--50">
           <mxGeometry width="140.5" height="20" as="geometry" />
@@ -271,7 +271,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--63" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontFamily=黑体;" vertex="1" parent="1">
-          <mxGeometry x="626.75" y="332" width="116.25" height="42" as="geometry" />
+          <mxGeometry x="626.75" y="331" width="116.25" height="42" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--64" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=黑体;" vertex="1" parent="DZGh_-k8ClZEZPDrQXv--63">
           <mxGeometry width="116.25" height="20" as="geometry" />
@@ -387,7 +387,7 @@
           <mxGeometry x="669" y="-96" width="76" height="49" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--88" value="编码器输入：&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;X&lt;sub&gt;en&lt;/sub&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;" vertex="1" parent="1">
-          <mxGeometry x="193" y="381" width="160" height="49" as="geometry" />
+          <mxGeometry x="196" y="377" width="160" height="49" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--89" value="解码器输入：&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;X&lt;sub&gt;de&lt;/sub&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;={X&lt;sub&gt;token&lt;/sub&gt;,X&lt;sub&gt;0&lt;/sub&gt;}&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="546" y="377" width="160" height="49" as="geometry" />
