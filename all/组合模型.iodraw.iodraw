@@ -223,11 +223,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DZGh_-k8ClZEZPDrQXv--237" value="输出局部特征Flstm" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];shadow=0;strokeColor=default;fontFamily=黑体;fontSize=16;fontColor=default;labelBorderColor=default;fillColor=default;" vertex="1" connectable="0" parent="DZGh_-k8ClZEZPDrQXv--235">
-          <mxGeometry x="0.1775" y="-2" relative="1" as="geometry">
-            <mxPoint x="-2" y="40" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--90" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;L&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;S&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;T&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;M&lt;/font&gt;层&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffeace;fontFamily=黑体;direction=south;" vertex="1" parent="1">
           <mxGeometry x="-7" y="-162" width="20" height="550" as="geometry" />
         </mxCell>
@@ -465,7 +460,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--264" value="输出局部特征&lt;font face=&quot;Times New Roman&quot;&gt;F&lt;sub&gt;LSTM&lt;/sub&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=黑体;fontSize=16;fontColor=default;labelBorderColor=none;resizable=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="494" y="-127" width="120" height="60" as="geometry" />
+          <mxGeometry x="459" y="-44" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
