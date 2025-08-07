@@ -96,6 +96,9 @@
         <mxCell id="ck4myvduiOFmaUWNDz5i-113" value="多头自注意力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="567" y="106" width="122" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ck4myvduiOFmaUWNDz5i-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ck4myvduiOFmaUWNDz5i-66" target="beorA4CVvn_kF5xPa1jf-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ck4myvduiOFmaUWNDz5i-66" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;labelBorderColor=default;shadow=0;swimlaneLine=1;" vertex="1" parent="1">
           <mxGeometry x="139" y="331" width="279.5" height="42.08" as="geometry" />
         </mxCell>
