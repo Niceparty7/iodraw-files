@@ -392,7 +392,7 @@
         <mxCell id="DZGh_-k8ClZEZPDrQXv--89" value="解码器输入：&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;X&lt;sub&gt;de&lt;/sub&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;={X&lt;sub&gt;token&lt;/sub&gt;,X&lt;sub&gt;0&lt;/sub&gt;}&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="546" y="377" width="160" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="DZGh_-k8ClZEZPDrQXv--90" value="&lt;b&gt;全连接层&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#d8f3ff;fontFamily=黑体;" vertex="1" parent="1">
+        <mxCell id="DZGh_-k8ClZEZPDrQXv--90" value="&lt;b&gt;LSTM层&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#d8f3ff;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="481" y="26" width="314" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--91" value="&lt;b&gt;全连接层&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#d8f3ff;fontFamily=黑体;" vertex="1" parent="1">
