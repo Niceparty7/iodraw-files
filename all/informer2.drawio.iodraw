@@ -386,7 +386,7 @@
         <mxCell id="ck4myvduiOFmaUWNDz5i-193" value="编码器输入：X&lt;sub&gt;en&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="225" y="381" width="160" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ck4myvduiOFmaUWNDz5i-194" value="解码器输入：X&lt;sub&gt;de&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ck4myvduiOFmaUWNDz5i-194" value="解码器输入：X&lt;sub&gt;de&amp;nbsp;&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="546" y="377" width="160" height="49" as="geometry" />
         </mxCell>
       </root>
