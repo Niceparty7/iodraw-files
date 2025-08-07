@@ -416,7 +416,7 @@
             <mxRectangle width="27" height="28" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DZGh_-k8ClZEZPDrQXv--234" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;L&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;S&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;T&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;M&lt;/font&gt;层&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffeace;fontFamily=黑体;direction=south;" vertex="1" parent="1">
+        <mxCell id="DZGh_-k8ClZEZPDrQXv--234" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;整合特征模块&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffeace;fontFamily=黑体;direction=south;" vertex="1" parent="1">
           <mxGeometry x="792" y="-27" width="20" height="314" as="geometry" />
         </mxCell>
       </root>
