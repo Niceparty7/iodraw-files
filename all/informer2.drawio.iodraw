@@ -355,7 +355,7 @@
         <mxCell id="ck4myvduiOFmaUWNDz5i-180" value="&lt;b&gt;编码器&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="240.75" y="45" width="76" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ck4myvduiOFmaUWNDz5i-181" value="编码器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;" vertex="1" parent="1">
+        <mxCell id="ck4myvduiOFmaUWNDz5i-181" value="&lt;font face=&quot;黑体&quot;&gt;解码器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="590" y="45" width="76" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ck4myvduiOFmaUWNDz5i-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.886;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=黑体;" edge="1" parent="1" source="ck4myvduiOFmaUWNDz5i-177">
