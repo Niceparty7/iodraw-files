@@ -161,13 +161,11 @@
             <mxRectangle width="24" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DZGh_-k8ClZEZPDrQXv--76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.087;entryY=0.059;entryDx=0;entryDy=0;fontFamily=黑体;entryPerimeter=0;" edge="1" parent="1" source="DZGh_-k8ClZEZPDrQXv--77" target="DZGh_-k8ClZEZPDrQXv--252">
+        <mxCell id="DZGh_-k8ClZEZPDrQXv--76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.087;entryY=0.059;entryDx=0;entryDy=0;fontFamily=黑体;entryPerimeter=0;" edge="1" parent="1" target="DZGh_-k8ClZEZPDrQXv--252">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="979" y="208.090909090909" as="sourcePoint" />
             <mxPoint x="1148.375" y="136" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="DZGh_-k8ClZEZPDrQXv--77" value="&lt;b&gt;全连接层&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#d8f3ff;fontFamily=黑体;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="959" y="51" width="20" height="314" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=黑体;" edge="1" parent="1" source="DZGh_-k8ClZEZPDrQXv--79" target="DZGh_-k8ClZEZPDrQXv--3">
           <mxGeometry relative="1" as="geometry">
@@ -473,6 +471,9 @@
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--274" value="&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;整合特征模块&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#FDE8FE;fontFamily=黑体;direction=south;" vertex="1" parent="1">
           <mxGeometry x="911" y="-77.43" width="20" height="459.87" as="geometry" />
+        </mxCell>
+        <mxCell id="DZGh_-k8ClZEZPDrQXv--278" value="&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;整合特征模块&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#FDE8FE;fontFamily=黑体;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="921" y="-67.43" width="20" height="459.87" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
