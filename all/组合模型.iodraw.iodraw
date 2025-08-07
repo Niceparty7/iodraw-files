@@ -213,7 +213,7 @@
           <mxGeometry x="1208" y="235.5" width="50" height="109" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--88" value="编码器输入：&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;X&lt;sub&gt;en&lt;/sub&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;" vertex="1" parent="1">
-          <mxGeometry x="-344" y="134" width="160" height="54" as="geometry" />
+          <mxGeometry x="-309" y="134.5" width="160" height="54" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--89" value="解码器输入：&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;X&lt;sub&gt;de&lt;/sub&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;={X&lt;sub&gt;token&lt;/sub&gt;,X&lt;sub&gt;0&lt;/sub&gt;}&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="467" y="308" width="160" height="49" as="geometry" />
@@ -230,7 +230,7 @@
           <mxGeometry x="-7" y="-162" width="20" height="550" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--91" value="&lt;b&gt;一卷卷积层&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#7fb3c8;fontFamily=黑体;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="-6" width="20" height="314" as="geometry" />
+          <mxGeometry x="-67" y="4.5" width="20" height="314" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--203" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=黑体;fontSize=16;fontColor=default;labelBorderColor=default;resizable=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-175" y="12" width="55" height="281" as="geometry" />
