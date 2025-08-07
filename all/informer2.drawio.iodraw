@@ -381,7 +381,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ck4myvduiOFmaUWNDz5i-192" value="输出" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="669" y="-88" width="76" height="49" as="geometry" />
+          <mxGeometry x="669" y="-96" width="76" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ck4myvduiOFmaUWNDz5i-193" value="编码器输入：X&lt;sub&gt;en&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="193" y="381" width="160" height="49" as="geometry" />
