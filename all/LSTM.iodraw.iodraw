@@ -169,7 +169,7 @@
         <mxCell id="r2ZteZNn8hjm_jUoeVuo-67" value="&lt;font&gt;o&lt;sub&gt;t&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="490" y="316.75" width="18.5" height="12.5" as="geometry" />
         </mxCell>
-        <mxCell id="enGKCcaSz0Z1nj-l1tHQ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="enGKCcaSz0Z1nj-l1tHQ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="208.5" y="335" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
