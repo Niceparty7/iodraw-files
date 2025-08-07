@@ -422,7 +422,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--234" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;整合特征模块&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffeace;fontFamily=黑体;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="935" y="-136.5" width="20" height="575" as="geometry" />
+          <mxGeometry x="907" y="-127" width="20" height="575" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--238" value="输出全局特征Informer" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=黑体;fontSize=16;fontColor=default;labelBorderColor=default;" vertex="1" parent="1">
           <mxGeometry x="697" y="247" width="178" height="31" as="geometry" />
