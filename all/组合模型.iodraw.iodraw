@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="24.7.17">
   <diagram id="28q4DWxZexVEzjplPzAg" name="第 1 页">
-    <mxGraphModel dx="2583" dy="1575" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1647" dy="1071" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -216,14 +216,6 @@
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--89" value="解码器输入：&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;X&lt;sub&gt;de&lt;/sub&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;={X&lt;sub&gt;token&lt;/sub&gt;,X&lt;sub&gt;0&lt;/sub&gt;}&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="469" y="308" width="160" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="DZGh_-k8ClZEZPDrQXv--235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=黑体;fontSize=16;fontColor=default;labelBorderColor=default;resizable=1;shape=flexArrow;" edge="1" parent="1" source="DZGh_-k8ClZEZPDrQXv--264" target="DZGh_-k8ClZEZPDrQXv--234">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="867" y="-56" />
-              <mxPoint x="867" y="160" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--272" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=黑体;fontSize=16;fontColor=default;labelBorderColor=default;resizable=1;shape=flexArrow;" edge="1" parent="1" source="DZGh_-k8ClZEZPDrQXv--90" target="DZGh_-k8ClZEZPDrQXv--1">
           <mxGeometry relative="1" as="geometry" />
