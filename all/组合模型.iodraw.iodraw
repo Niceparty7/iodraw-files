@@ -470,6 +470,9 @@
         <mxCell id="DZGh_-k8ClZEZPDrQXv--265" value="输出全局特征&lt;font face=&quot;Times New Roman&quot;&gt;F&lt;sub&gt;Informer&lt;/sub&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=黑体;fontSize=16;fontColor=default;labelBorderColor=none;resizable=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="705" y="122.5" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DZGh_-k8ClZEZPDrQXv--274" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;L&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;S&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;T&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;M&lt;/font&gt;层&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffeace;fontFamily=黑体;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="9" y="-66.87" width="20" height="459.87" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
