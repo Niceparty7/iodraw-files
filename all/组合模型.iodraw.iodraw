@@ -127,7 +127,7 @@
             <mxRectangle width="30" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DZGh_-k8ClZEZPDrQXv--34" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;labelBorderColor=#000000;fontFamily=黑体;" vertex="1" parent="DZGh_-k8ClZEZPDrQXv--28">
+        <mxCell id="DZGh_-k8ClZEZPDrQXv--34" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=default;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;labelBorderColor=#000000;fontFamily=黑体;" vertex="1" parent="DZGh_-k8ClZEZPDrQXv--28">
           <mxGeometry x="141" width="27" height="20" as="geometry">
             <mxRectangle width="27" height="20" as="alternateBounds" />
           </mxGeometry>
