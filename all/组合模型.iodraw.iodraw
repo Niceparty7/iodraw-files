@@ -28,7 +28,7 @@
         <mxCell id="DZGh_-k8ClZEZPDrQXv--8" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=1.8000030517578125;fillColor=#8497b0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=黑体;" vertex="1" parent="DZGh_-k8ClZEZPDrQXv--5">
           <mxGeometry x="17.96" width="40.07" height="6" as="geometry" />
         </mxCell>
-        <mxCell id="DZGh_-k8ClZEZPDrQXv--9" value="特征整合模块" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=黑体;" vertex="1" parent="1">
+        <mxCell id="DZGh_-k8ClZEZPDrQXv--9" value="多特征" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="148.5" y="6" width="249" height="28" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=黑体;fontSize=16;fontColor=default;labelBorderColor=default;resizable=1;" edge="1" parent="1" source="DZGh_-k8ClZEZPDrQXv--11" target="DZGh_-k8ClZEZPDrQXv--234">
@@ -437,7 +437,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--234" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;整合特征模块&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffeace;fontFamily=黑体;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="871" y="-252" width="20" height="575" as="geometry" />
+          <mxGeometry x="922" y="-252" width="20" height="575" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--238" value="输出全局特征Informer" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=黑体;fontSize=16;fontColor=default;labelBorderColor=default;" vertex="1" parent="1">
           <mxGeometry x="710" y="107" width="178" height="31" as="geometry" />
