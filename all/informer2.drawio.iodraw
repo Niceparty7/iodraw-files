@@ -31,6 +31,9 @@
         <mxCell id="ck4myvduiOFmaUWNDz5i-1" value="多维特征图" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="148.5" y="6" width="249" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="ck4myvduiOFmaUWNDz5i-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ck4myvduiOFmaUWNDz5i-2" target="ck4myvduiOFmaUWNDz5i-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ck4myvduiOFmaUWNDz5i-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="516" y="43" width="220" height="245" as="geometry" />
         </mxCell>
@@ -348,9 +351,6 @@
         </mxCell>
         <mxCell id="ck4myvduiOFmaUWNDz5i-180" value="编码器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240.75" y="45" width="76" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="ck4myvduiOFmaUWNDz5i-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ck4myvduiOFmaUWNDz5i-181" target="ck4myvduiOFmaUWNDz5i-176">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ck4myvduiOFmaUWNDz5i-181" value="编码器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="45" width="76" height="49" as="geometry" />
