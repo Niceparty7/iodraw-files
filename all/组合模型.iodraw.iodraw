@@ -161,7 +161,7 @@
             <mxRectangle width="24" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DZGh_-k8ClZEZPDrQXv--76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.087;entryY=0.059;entryDx=0;entryDy=0;fontFamily=黑体;entryPerimeter=0;" edge="1" parent="1" target="DZGh_-k8ClZEZPDrQXv--252">
+        <mxCell id="DZGh_-k8ClZEZPDrQXv--76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.087;entryY=0.059;entryDx=0;entryDy=0;fontFamily=黑体;entryPerimeter=0;shape=flexArrow;" edge="1" parent="1" target="DZGh_-k8ClZEZPDrQXv--252">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="979" y="208.090909090909" as="sourcePoint" />
             <mxPoint x="1148.375" y="136" as="targetPoint" />
@@ -204,7 +204,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--87" value="输出" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="188" width="50" height="109" as="geometry" />
+          <mxGeometry x="1210" y="168.5" width="50" height="109" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--88" value="编码器输入：&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;X&lt;sub&gt;en&lt;/sub&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="-309" y="125.5" width="160" height="54" as="geometry" />
@@ -361,7 +361,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--241" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=黑体;fontSize=16;fontColor=default;labelBorderColor=default;resizable=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1174" y="-31.5" width="32" height="350" as="geometry" />
+          <mxGeometry x="1174" y="-51" width="32" height="350" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--242" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;shadow=0;align=center;verticalAlign=middle;fontFamily=黑体;fontSize=16;fontColor=default;labelBorderColor=default;resizable=1;" vertex="1" parent="DZGh_-k8ClZEZPDrQXv--241">
           <mxGeometry width="32" height="32" as="geometry" />
