@@ -296,7 +296,7 @@
             <mxRectangle width="22" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ck4myvduiOFmaUWNDz5i-169" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ck4myvduiOFmaUWNDz5i-164">
+        <mxCell id="ck4myvduiOFmaUWNDz5i-169" value="0" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="ck4myvduiOFmaUWNDz5i-164">
           <mxGeometry x="92" width="24" height="20" as="geometry">
             <mxRectangle width="24" height="20" as="alternateBounds" />
           </mxGeometry>
@@ -379,6 +379,9 @@
         </mxCell>
         <mxCell id="ck4myvduiOFmaUWNDz5i-191" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ck4myvduiOFmaUWNDz5i-164" target="ck4myvduiOFmaUWNDz5i-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ck4myvduiOFmaUWNDz5i-192" value="编码器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="55" width="76" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
