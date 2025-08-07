@@ -430,7 +430,7 @@
           <mxGeometry x="925" y="-158" width="20" height="575" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--238" value="输出全局特征Informer" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=黑体;fontSize=16;fontColor=default;labelBorderColor=default;" vertex="1" parent="1">
-          <mxGeometry x="710" y="107" width="178" height="31" as="geometry" />
+          <mxGeometry x="697" y="247" width="178" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
