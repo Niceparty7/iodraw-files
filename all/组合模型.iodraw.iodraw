@@ -459,7 +459,7 @@
         <mxCell id="DZGh_-k8ClZEZPDrQXv--264" value="输出局部特征&lt;font face=&quot;Times New Roman&quot;&gt;F&lt;sub&gt;LSTM&lt;/sub&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=黑体;fontSize=16;fontColor=default;labelBorderColor=none;resizable=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="459" y="-44" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DZGh_-k8ClZEZPDrQXv--265" value="输出全局特征FInformer" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=黑体;fontSize=16;fontColor=default;labelBorderColor=none;resizable=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="DZGh_-k8ClZEZPDrQXv--265" value="输出全局特征&lt;font face=&quot;Times New Roman&quot;&gt;F&lt;sub&gt;Informer&lt;/sub&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=黑体;fontSize=16;fontColor=default;labelBorderColor=none;resizable=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="748" y="34" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
