@@ -330,7 +330,7 @@
           <mxGeometry x="315.5" y="98" width="81" height="43" as="geometry" />
         </mxCell>
         <mxCell id="ck4myvduiOFmaUWNDz5i-178" value="多头概率系数自注意力" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="177" y="133" width="60" height="30" as="geometry" />
+          <mxGeometry x="177" y="133" width="64" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
