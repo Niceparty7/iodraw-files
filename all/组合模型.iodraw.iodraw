@@ -395,7 +395,7 @@
         <mxCell id="DZGh_-k8ClZEZPDrQXv--90" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;LSTM&lt;/font&gt;层&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffeace;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="469" y="36" width="314" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DZGh_-k8ClZEZPDrQXv--91" value="&lt;b&gt;一卷卷积层&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#d8f3ff;fontFamily=黑体;" vertex="1" parent="1">
+        <mxCell id="DZGh_-k8ClZEZPDrQXv--91" value="&lt;b&gt;一卷卷积层&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#7fb3c8;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="471" y="71" width="314" height="20" as="geometry" />
         </mxCell>
       </root>
