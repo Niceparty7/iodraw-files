@@ -347,11 +347,13 @@
         <mxCell id="ck4myvduiOFmaUWNDz5i-181" value="编码器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="45" width="76" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ck4myvduiOFmaUWNDz5i-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.886;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ck4myvduiOFmaUWNDz5i-177" target="beorA4CVvn_kF5xPa1jf-2">
+        <mxCell id="ck4myvduiOFmaUWNDz5i-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.886;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310.93" y="114.4" as="sourcePoint" />
+            <mxPoint x="246.25000000000006" y="106.03800000000004" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="286" y="119" />
-              <mxPoint x="286" y="111" />
+              <mxPoint x="280.93" y="114.4" />
+              <mxPoint x="280.93" y="106.4" />
             </Array>
           </mxGeometry>
         </mxCell>
