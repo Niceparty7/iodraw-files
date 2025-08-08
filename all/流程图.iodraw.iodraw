@@ -29,7 +29,7 @@
           <mxGeometry x="543" y="514" width="93" height="46" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-11" value="组合模型预测值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="279" y="760" width="201" height="53" as="geometry" />
+          <mxGeometry x="247" y="726" width="201" height="53" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="96" y="202" width="81" height="47" as="geometry" />
