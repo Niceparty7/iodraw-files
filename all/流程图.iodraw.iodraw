@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ybC7mdMI05G3Tud_FAIt-1" value="获取原始数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="35" width="93" height="46" as="geometry" />
+          <mxGeometry x="330" y="17" width="93" height="46" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-2" value="信号分解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="333" y="122" width="93" height="46" as="geometry" />
@@ -55,8 +55,8 @@
         <mxCell id="ybC7mdMI05G3Tud_FAIt-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="382" y="364" width="81" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="ybC7mdMI05G3Tud_FAIt-23" value="获取原始数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="499" y="109" width="93" height="46" as="geometry" />
+        <mxCell id="ybC7mdMI05G3Tud_FAIt-23" value="数据预处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333" y="67" width="93" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
