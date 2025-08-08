@@ -20,13 +20,13 @@
           <mxGeometry x="530" y="433" width="93" height="46" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-8" value="融合特征预测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="276" y="620" width="201" height="53" as="geometry" />
+          <mxGeometry x="234" y="620" width="201" height="53" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-9" value="提取局部特征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="66" y="514" width="93" height="46" as="geometry" />
+          <mxGeometry x="77" y="514" width="93" height="46" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-10" value="提取全局特征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="539" y="514" width="93" height="46" as="geometry" />
+          <mxGeometry x="543" y="514" width="93" height="46" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-11" value="组合预测值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="279" y="760" width="201" height="53" as="geometry" />
