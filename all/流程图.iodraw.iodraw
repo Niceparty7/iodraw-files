@@ -20,7 +20,7 @@
           <mxGeometry x="517" y="296" width="93" height="46" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-8" value="融合特征预测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="287" y="465" width="201" height="53" as="geometry" />
+          <mxGeometry x="283" y="488" width="201" height="53" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-9" value="提取局部特征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="136" y="380" width="93" height="46" as="geometry" />
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-11" value="组合预测值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="287" y="577" width="201" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="ybC7mdMI05G3Tud_FAIt-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="298" width="81" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
