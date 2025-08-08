@@ -26,7 +26,7 @@
           <mxGeometry x="86" y="521" width="93" height="46" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-10" value="提取全局特征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="423" y="521" width="93" height="46" as="geometry" />
+          <mxGeometry x="524" y="516" width="93" height="46" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-11" value="组合模型预测值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="247" y="726" width="201" height="53" as="geometry" />
@@ -114,6 +114,9 @@
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-72" value="KPCA核主成分分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="261" y="293" width="88" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="ybC7mdMI05G3Tud_FAIt-73" value="KPCA核主成分分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="98" y="423" width="88" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
