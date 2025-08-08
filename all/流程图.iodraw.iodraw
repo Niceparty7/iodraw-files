@@ -7,8 +7,11 @@
         <mxCell id="ybC7mdMI05G3Tud_FAIt-1" value="获取原始数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="342" y="66" width="93" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="ybC7mdMI05G3Tud_FAIt-2" value="获取原始数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="208" y="131" width="93" height="46" as="geometry" />
+        <mxCell id="ybC7mdMI05G3Tud_FAIt-2" value="信号分解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="149" width="93" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ybC7mdMI05G3Tud_FAIt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ybC7mdMI05G3Tud_FAIt-2" target="ybC7mdMI05G3Tud_FAIt-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
