@@ -76,6 +76,15 @@
         <mxCell id="ybC7mdMI05G3Tud_FAIt-32" value="ICEEMDAN分解" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="501" y="159" width="88" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="ybC7mdMI05G3Tud_FAIt-33" value="不同类别的原始特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="237" y="56" width="88" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="ybC7mdMI05G3Tud_FAIt-34" value="不同类别的原始特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347" y="56" width="88" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="ybC7mdMI05G3Tud_FAIt-35" value="不同类别的原始特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="153" y="86" width="88" height="37" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
