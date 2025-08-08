@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ybC7mdMI05G3Tud_FAIt-54" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-13" y="1.5" width="628" height="104.5" as="geometry" />
+          <mxGeometry x="-30" y="1.5" width="628" height="104.5" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-1" value="获取t原始数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="261" y="-112" width="88" height="42" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="-78.5" y="110" width="751" height="149" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-4" value="KPCA核主成分分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="258.5" y="295" width="93" height="46" as="geometry" />
+          <mxGeometry x="258.5" y="295" width="107.5" height="32" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-6" value="LSTM模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="84" y="435" width="93" height="46" as="geometry" />
