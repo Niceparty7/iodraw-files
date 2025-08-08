@@ -118,6 +118,9 @@
         <mxCell id="ybC7mdMI05G3Tud_FAIt-79" value="组合模型评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="253" y="733" width="88" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="ybC7mdMI05G3Tud_FAIt-81" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-63" y="275" width="751" height="149" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
