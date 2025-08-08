@@ -82,6 +82,12 @@
         <mxCell id="ybC7mdMI05G3Tud_FAIt-38" value="特征1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="135.5" y="56" width="71" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="ybC7mdMI05G3Tud_FAIt-39" value="特征1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="254" y="56" width="71" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ybC7mdMI05G3Tud_FAIt-40" value="特征1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="86" width="71" height="25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
