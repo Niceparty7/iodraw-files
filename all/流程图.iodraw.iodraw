@@ -17,7 +17,10 @@
           <mxGeometry x="218" y="269" width="93" height="46" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-7" value="Informer模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="463" y="269" width="93" height="46" as="geometry" />
+          <mxGeometry x="469" y="269" width="93" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ybC7mdMI05G3Tud_FAIt-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="286" y="393" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
