@@ -8,7 +8,7 @@
           <mxGeometry x="261" y="-112" width="88" height="42" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-2" value="信号分解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="545" y="3" width="93" height="46" as="geometry" />
+          <mxGeometry x="543" y="-36" width="93" height="46" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-4" value="特征降维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="333" y="281" width="93" height="46" as="geometry" />
@@ -83,7 +83,10 @@
           <mxGeometry x="347" y="56" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-35" value="不同类别的原始特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="153" y="86" width="88" height="37" as="geometry" />
+          <mxGeometry x="448" y="49" width="88" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="ybC7mdMI05G3Tud_FAIt-36" value="不同类别的原始特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="554" y="53" width="88" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
