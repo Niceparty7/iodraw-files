@@ -14,22 +14,22 @@
           <mxGeometry x="335" y="197" width="93" height="46" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-6" value="LSTM模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="218" y="269" width="93" height="46" as="geometry" />
+          <mxGeometry x="133" y="293" width="93" height="46" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-7" value="Informer模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="269" width="93" height="46" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-8" value="融合特征预测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="289" y="409" width="201" height="53" as="geometry" />
+          <mxGeometry x="287" y="465" width="201" height="53" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-9" value="提取局部特征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="218" y="330" width="93" height="46" as="geometry" />
+          <mxGeometry x="136" y="380" width="93" height="46" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-10" value="提取全局特征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="330" width="93" height="46" as="geometry" />
+          <mxGeometry x="513" y="397" width="93" height="46" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-11" value="组合预测值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="499" width="201" height="53" as="geometry" />
+          <mxGeometry x="284" y="567" width="201" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
