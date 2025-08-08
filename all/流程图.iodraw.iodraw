@@ -20,7 +20,7 @@
           <mxGeometry x="460" y="269" width="93" height="46" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-8" value="融合特征预测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="349" width="201" height="53" as="geometry" />
+          <mxGeometry x="301" y="391" width="201" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
