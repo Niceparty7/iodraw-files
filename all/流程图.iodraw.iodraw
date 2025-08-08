@@ -13,13 +13,10 @@
         <mxCell id="ybC7mdMI05G3Tud_FAIt-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-78.5" y="110" width="751" height="149" as="geometry" />
         </mxCell>
-        <mxCell id="ybC7mdMI05G3Tud_FAIt-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="726" width="201" height="53" as="geometry" />
-        </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-16" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="261" y="-39" width="88" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="ybC7mdMI05G3Tud_FAIt-25" value="组合模型评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ybC7mdMI05G3Tud_FAIt-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="284" y="812" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-26" value="特征F1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -115,8 +112,11 @@
         <mxCell id="ybC7mdMI05G3Tud_FAIt-77" value="特征融合预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="253" y="618" width="88" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="ybC7mdMI05G3Tud_FAIt-78" value="特征融合预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ybC7mdMI05G3Tud_FAIt-78" value="组合模型预测值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="254" y="672" width="88" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="ybC7mdMI05G3Tud_FAIt-79" value="组合模型预测值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="253" y="733" width="88" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
