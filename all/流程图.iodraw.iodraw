@@ -25,6 +25,9 @@
         <mxCell id="ybC7mdMI05G3Tud_FAIt-9" value="提取局部特征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="218" y="330" width="93" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="ybC7mdMI05G3Tud_FAIt-10" value="提取全局特征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="330" width="93" height="46" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
