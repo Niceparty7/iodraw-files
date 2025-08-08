@@ -8,7 +8,7 @@
           <mxGeometry x="330" y="17" width="93" height="46" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-2" value="信号分解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="333" y="122" width="93" height="46" as="geometry" />
+          <mxGeometry x="336" y="142" width="93" height="46" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-4" value="特征降维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="333" y="281" width="93" height="46" as="geometry" />
