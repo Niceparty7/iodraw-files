@@ -14,7 +14,7 @@
           <mxGeometry x="-78.5" y="110" width="751" height="149" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-4" value="特征降维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="333" y="281" width="93" height="46" as="geometry" />
+          <mxGeometry x="258.5" y="295" width="93" height="46" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-6" value="LSTM模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="84" y="435" width="93" height="46" as="geometry" />
@@ -34,26 +34,8 @@
         <mxCell id="ybC7mdMI05G3Tud_FAIt-11" value="组合模型预测值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="247" y="726" width="201" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="ybC7mdMI05G3Tud_FAIt-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="392" width="81" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="ybC7mdMI05G3Tud_FAIt-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="542" y="311" width="81" height="47" as="geometry" />
-        </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-16" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="261" y="-39" width="88" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="ybC7mdMI05G3Tud_FAIt-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="106" y="364" width="81" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="ybC7mdMI05G3Tud_FAIt-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="223" y="364" width="81" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="ybC7mdMI05G3Tud_FAIt-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="501" y="364" width="81" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="ybC7mdMI05G3Tud_FAIt-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="382" y="364" width="81" height="47" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-25" value="组合模型评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="284" y="812" width="120" height="60" as="geometry" />
