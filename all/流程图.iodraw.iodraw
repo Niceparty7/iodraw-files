@@ -13,9 +13,6 @@
         <mxCell id="ybC7mdMI05G3Tud_FAIt-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-78.5" y="110" width="751" height="149" as="geometry" />
         </mxCell>
-        <mxCell id="ybC7mdMI05G3Tud_FAIt-8" value="融合特征预测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="234" y="620" width="201" height="53" as="geometry" />
-        </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-11" value="组合模型预测值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="247" y="726" width="201" height="53" as="geometry" />
         </mxCell>
@@ -116,7 +113,7 @@
           <mxGeometry x="398" y="514" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-77" value="ICEEMDAN分解" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="266.5" y="465" width="88" height="37" as="geometry" />
+          <mxGeometry x="253" y="618" width="88" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
