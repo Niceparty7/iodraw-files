@@ -71,7 +71,10 @@
           <mxGeometry x="270" y="157" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-31" value="ICEEMDAN分解" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="118" width="88" height="37" as="geometry" />
+          <mxGeometry x="392" y="159" width="88" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="ybC7mdMI05G3Tud_FAIt-32" value="ICEEMDAN分解" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="501" y="159" width="88" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
