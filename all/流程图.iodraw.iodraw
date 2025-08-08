@@ -58,7 +58,7 @@
         <mxCell id="ybC7mdMI05G3Tud_FAIt-25" value="组合模型评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="284" y="812" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ybC7mdMI05G3Tud_FAIt-26" value="不同类别的原始特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ybC7mdMI05G3Tud_FAIt-26" value="特征1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="123" y="56" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-27" value="ICEEMDAN分解" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -89,7 +89,7 @@
           <mxGeometry x="554" y="53" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-37" value="不同类别的特征因素" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="292" y="10" width="60" height="30" as="geometry" />
+          <mxGeometry x="254" y="18" width="113" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
