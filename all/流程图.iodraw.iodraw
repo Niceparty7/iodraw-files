@@ -76,20 +76,11 @@
         <mxCell id="ybC7mdMI05G3Tud_FAIt-32" value="ICEEMDAN分解" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="501" y="159" width="88" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="ybC7mdMI05G3Tud_FAIt-33" value="不同类别的原始特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="237" y="56" width="88" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="ybC7mdMI05G3Tud_FAIt-34" value="不同类别的原始特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="347" y="56" width="88" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="ybC7mdMI05G3Tud_FAIt-35" value="不同类别的原始特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="53" width="88" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="ybC7mdMI05G3Tud_FAIt-36" value="不同类别的原始特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="554" y="53" width="88" height="37" as="geometry" />
-        </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-37" value="不同类别的特征因素" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="254" y="18" width="113" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ybC7mdMI05G3Tud_FAIt-38" value="特征1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135.5" y="56" width="71" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
