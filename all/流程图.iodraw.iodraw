@@ -13,9 +13,6 @@
         <mxCell id="ybC7mdMI05G3Tud_FAIt-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-78.5" y="110" width="751" height="149" as="geometry" />
         </mxCell>
-        <mxCell id="ybC7mdMI05G3Tud_FAIt-6" value="LSTM模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="156" y="446" width="93" height="46" as="geometry" />
-        </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-7" value="Informer模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="408" y="446" width="93" height="46" as="geometry" />
         </mxCell>
@@ -115,8 +112,11 @@
         <mxCell id="ybC7mdMI05G3Tud_FAIt-72" value="KPCA核主成分分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="261" y="293" width="88" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="ybC7mdMI05G3Tud_FAIt-73" value="KPCA核主成分分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ybC7mdMI05G3Tud_FAIt-73" value="LSTM模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="98" y="423" width="88" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="ybC7mdMI05G3Tud_FAIt-74" value="LSTM模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="108" y="433" width="88" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
