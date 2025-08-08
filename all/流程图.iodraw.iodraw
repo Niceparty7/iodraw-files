@@ -11,7 +11,7 @@
           <mxGeometry x="261" y="-112" width="88" height="42" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-2" value="信号分解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="573" y="97" width="93" height="46" as="geometry" />
+          <mxGeometry x="474" y="121" width="93" height="46" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-4" value="特征降维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="333" y="281" width="93" height="46" as="geometry" />
@@ -117,6 +117,9 @@
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-57" value="····" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="536" y="200" width="34" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="ybC7mdMI05G3Tud_FAIt-60" value="····" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="342" y="196" width="34" height="12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
