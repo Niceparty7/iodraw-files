@@ -40,8 +40,8 @@
         <mxCell id="ybC7mdMI05G3Tud_FAIt-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="491" y="202" width="81" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="ybC7mdMI05G3Tud_FAIt-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="172" y="7" width="81" height="47" as="geometry" />
+        <mxCell id="ybC7mdMI05G3Tud_FAIt-16" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="172" y="7" width="74" height="39" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="106" y="364" width="81" height="47" as="geometry" />
@@ -54,9 +54,6 @@
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="382" y="364" width="81" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="ybC7mdMI05G3Tud_FAIt-23" value="数据预处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="333" y="67" width="93" height="46" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-25" value="组合模型评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="284" y="812" width="120" height="60" as="geometry" />
