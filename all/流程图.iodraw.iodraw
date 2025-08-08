@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="2IFZjPLRQj1854PvzZAX">
-    <mxGraphModel dx="1273" dy="870" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1647" dy="1071" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,9 +15,6 @@
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-16" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="261" y="-39" width="88" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="ybC7mdMI05G3Tud_FAIt-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="284" y="812" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-26" value="特征F1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="45" y="56" width="71" height="25" as="geometry" />
@@ -115,7 +112,7 @@
         <mxCell id="ybC7mdMI05G3Tud_FAIt-78" value="组合模型预测值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="254" y="672" width="88" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="ybC7mdMI05G3Tud_FAIt-79" value="组合模型预测值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ybC7mdMI05G3Tud_FAIt-79" value="组合模型评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="253" y="733" width="88" height="37" as="geometry" />
         </mxCell>
       </root>
