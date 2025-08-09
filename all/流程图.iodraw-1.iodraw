@@ -303,10 +303,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-78" value="组合模型预测值" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;" parent="1" vertex="1">
-          <mxGeometry x="253" y="655" width="88" height="37" as="geometry" />
+          <mxGeometry x="253" y="666" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-79" value="组合模型评价" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;" parent="1" vertex="1">
-          <mxGeometry x="253" y="712" width="88" height="37" as="geometry" />
+          <mxGeometry x="253" y="721" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="nyrnJKPdQ7gU-_98maFI-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 20px; letter-spacing: 3px; text-align: start;&quot;&gt;•&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 20px; letter-spacing: 3px; text-align: start;&quot;&gt;•&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 20px; letter-spacing: 3px; text-align: start;&quot;&gt;•&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="292" y="362.5" width="34" height="12" as="geometry" />
