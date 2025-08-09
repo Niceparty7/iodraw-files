@@ -127,8 +127,10 @@
         <mxCell id="nyrnJKPdQ7gU-_98maFI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ybC7mdMI05G3Tud_FAIt-37" target="ybC7mdMI05G3Tud_FAIt-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nyrnJKPdQ7gU-_98maFI-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.547;entryY=0.459;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ybC7mdMI05G3Tud_FAIt-16" target="ybC7mdMI05G3Tud_FAIt-54">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="nyrnJKPdQ7gU-_98maFI-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ybC7mdMI05G3Tud_FAIt-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="309" y="-6" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
