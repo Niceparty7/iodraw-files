@@ -255,10 +255,10 @@
           <mxGeometry x="414" y="465" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-75" value="提取局部特征" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;" parent="1" vertex="1">
-          <mxGeometry x="90" y="539" width="88" height="37" as="geometry" />
+          <mxGeometry x="109" y="528" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-76" value="提取全局特征" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;" parent="1" vertex="1">
-          <mxGeometry x="390" y="536" width="88" height="37" as="geometry" />
+          <mxGeometry x="414" y="534" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-77" value="特征融合预测" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;" parent="1" vertex="1">
           <mxGeometry x="253" y="618" width="88" height="37" as="geometry" />
