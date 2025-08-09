@@ -32,7 +32,7 @@
           <mxGeometry x="261" y="114" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-37" value="不同类别的特征因素" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;" parent="1" vertex="1">
-          <mxGeometry x="520" y="-118" width="113" height="26" as="geometry" />
+          <mxGeometry x="246" y="9" width="113" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-38" value="特征&lt;font face=&quot;Times New Roman&quot;&gt;F&lt;sub&gt;2&lt;/sub&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;" parent="1" vertex="1">
           <mxGeometry x="135.5" y="56" width="71" height="25" as="geometry" />
@@ -123,9 +123,6 @@
         </mxCell>
         <mxCell id="nyrnJKPdQ7gU-_98maFI-14" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;IMF&lt;span style=&quot;color: rgb(51, 51, 51); letter-spacing: 3px; text-align: start;&quot;&gt;´&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); letter-spacing: 3px; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;(n)&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="515" y="356" width="71" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="nyrnJKPdQ7gU-_98maFI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ybC7mdMI05G3Tud_FAIt-37" target="ybC7mdMI05G3Tud_FAIt-37">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nyrnJKPdQ7gU-_98maFI-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ybC7mdMI05G3Tud_FAIt-16">
           <mxGeometry relative="1" as="geometry">
