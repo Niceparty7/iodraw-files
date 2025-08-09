@@ -257,7 +257,7 @@
           <mxGeometry x="252.5" y="294" width="114" height="18" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-73" value="&lt;font face=&quot;Times New Roman&quot;&gt;LSTM&lt;/font&gt;模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;" parent="1" vertex="1">
-          <mxGeometry x="113" y="465" width="88" height="37" as="geometry" />
+          <mxGeometry x="109" y="465" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-74" value="&lt;font face=&quot;Times New Roman&quot;&gt;Informer&lt;/font&gt;模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;" parent="1" vertex="1">
           <mxGeometry x="414" y="465" width="88" height="37" as="geometry" />
