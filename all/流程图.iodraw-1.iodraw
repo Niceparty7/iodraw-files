@@ -444,8 +444,8 @@
         <mxCell id="nyrnJKPdQ7gU-_98maFI-102" value="&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#007fff&quot;&gt;&lt;b&gt;特征分解&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="562" y="124" width="91" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="nyrnJKPdQ7gU-_98maFI-103" value="&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#007fff&quot;&gt;&lt;b&gt;特征分解&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;" vertex="1" parent="1">
-          <mxGeometry x="572" y="134" width="91" height="23" as="geometry" />
+        <mxCell id="nyrnJKPdQ7gU-_98maFI-103" value="&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#007fff&quot;&gt;&lt;b&gt;特征降维&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;" vertex="1" parent="1">
+          <mxGeometry x="552" y="286" width="91" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
