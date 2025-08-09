@@ -275,7 +275,7 @@
           <mxGeometry x="414" y="528" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-77" value="特征融合预测" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;" parent="1" vertex="1">
-          <mxGeometry x="253" y="618" width="88" height="37" as="geometry" />
+          <mxGeometry x="253" y="600" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-78" value="组合模型预测值" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;" parent="1" vertex="1">
           <mxGeometry x="254" y="672" width="88" height="37" as="geometry" />
