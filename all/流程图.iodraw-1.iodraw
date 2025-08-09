@@ -190,7 +190,7 @@
           <mxGeometry x="12" y="356" width="71" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-72" value="&lt;font face=&quot;Times New Roman&quot;&gt;KPCA&lt;/font&gt;核主成分分析" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;" parent="1" vertex="1">
-          <mxGeometry x="250" y="303" width="114" height="18" as="geometry" />
+          <mxGeometry x="252.5" y="303" width="114" height="18" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-73" value="&lt;font face=&quot;Times New Roman&quot;&gt;LSTM&lt;/font&gt;模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;" parent="1" vertex="1">
           <mxGeometry x="112" y="425" width="88" height="37" as="geometry" />
@@ -214,7 +214,7 @@
           <mxGeometry x="253" y="733" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="nyrnJKPdQ7gU-_98maFI-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 20px; letter-spacing: 3px; text-align: start;&quot;&gt;•&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 20px; letter-spacing: 3px; text-align: start;&quot;&gt;•&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 20px; letter-spacing: 3px; text-align: start;&quot;&gt;•&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;" vertex="1" parent="1">
-          <mxGeometry x="290" y="362.5" width="34" height="12" as="geometry" />
+          <mxGeometry x="292" y="362.5" width="34" height="12" as="geometry" />
         </mxCell>
         <mxCell id="nyrnJKPdQ7gU-_98maFI-8" value="···" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="60" y="210.5" width="34" height="12" as="geometry" />
