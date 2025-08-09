@@ -217,16 +217,16 @@
           <mxGeometry x="252.5" y="303" width="114" height="18" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-73" value="&lt;font face=&quot;Times New Roman&quot;&gt;LSTM&lt;/font&gt;模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;" parent="1" vertex="1">
-          <mxGeometry x="112" y="425" width="88" height="37" as="geometry" />
+          <mxGeometry x="93" y="468" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-74" value="&lt;font face=&quot;Times New Roman&quot;&gt;Informer&lt;/font&gt;模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;" parent="1" vertex="1">
-          <mxGeometry x="398" y="431" width="88" height="37" as="geometry" />
+          <mxGeometry x="398" y="463" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-75" value="提取局部特征" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;" parent="1" vertex="1">
-          <mxGeometry x="112" y="505" width="88" height="37" as="geometry" />
+          <mxGeometry x="90" y="539" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-76" value="提取全局特征" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;" parent="1" vertex="1">
-          <mxGeometry x="398" y="514" width="88" height="37" as="geometry" />
+          <mxGeometry x="390" y="536" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-77" value="特征融合预测" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;" parent="1" vertex="1">
           <mxGeometry x="253" y="618" width="88" height="37" as="geometry" />
