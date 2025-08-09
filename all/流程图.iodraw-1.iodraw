@@ -438,7 +438,7 @@
         <mxCell id="nyrnJKPdQ7gU-_98maFI-84" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="290.75" y="435" width="36.5" as="geometry" />
         </mxCell>
-        <mxCell id="nyrnJKPdQ7gU-_98maFI-101" value="&lt;h2&gt;获取数据&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;" vertex="1" parent="1">
+        <mxCell id="nyrnJKPdQ7gU-_98maFI-101" value="&lt;h2&gt;&lt;font color=&quot;#007fff&quot; face=&quot;黑体&quot;&gt;获取数据&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;" vertex="1" parent="1">
           <mxGeometry x="574" y="-55" width="91" height="23" as="geometry" />
         </mxCell>
       </root>
