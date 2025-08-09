@@ -230,7 +230,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nyrnJKPdQ7gU-_98maFI-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ybC7mdMI05G3Tud_FAIt-72" target="nyrnJKPdQ7gU-_98maFI-13">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="332" />
+              <mxPoint x="447" y="332" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="nyrnJKPdQ7gU-_98maFI-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ybC7mdMI05G3Tud_FAIt-72" target="nyrnJKPdQ7gU-_98maFI-14">
           <mxGeometry relative="1" as="geometry">
