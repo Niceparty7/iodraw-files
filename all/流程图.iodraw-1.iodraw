@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-42" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 20px; letter-spacing: 3px; text-align: start;&quot;&gt;•&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 20px; letter-spacing: 3px; text-align: start;&quot;&gt;•&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 20px; letter-spacing: 3px; text-align: start;&quot;&gt;•&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;" parent="1" vertex="1">
-          <mxGeometry x="288" y="30" width="34" height="12" as="geometry" />
+          <mxGeometry x="288" y="30" width="249" height="12" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-45" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;F&lt;sub&gt;1&lt;/sub&gt;_IMF1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="-67" y="190" width="38" height="16" as="geometry" />
