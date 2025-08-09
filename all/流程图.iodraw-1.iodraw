@@ -269,13 +269,23 @@
           <mxGeometry x="414" y="465" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="nyrnJKPdQ7gU-_98maFI-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ybC7mdMI05G3Tud_FAIt-75" target="ybC7mdMI05G3Tud_FAIt-77">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="153" y="585" />
+              <mxPoint x="297" y="585" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-75" value="提取局部特征" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;" parent="1" vertex="1">
           <mxGeometry x="109" y="528" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="nyrnJKPdQ7gU-_98maFI-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ybC7mdMI05G3Tud_FAIt-76" target="ybC7mdMI05G3Tud_FAIt-77">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="458" y="585" />
+              <mxPoint x="297" y="585" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-76" value="提取全局特征" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=黑体;" parent="1" vertex="1">
           <mxGeometry x="414" y="528" width="88" height="37" as="geometry" />
