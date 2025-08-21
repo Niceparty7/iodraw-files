@@ -256,7 +256,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ybC7mdMI05G3Tud_FAIt-72" value="&lt;font&gt;KPCA&lt;/font&gt;核主成分分析" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="ybC7mdMI05G3Tud_FAIt-72" value="&lt;font face=&quot;Times New Roman&quot;&gt;KPCA&lt;/font&gt;核主成分分析" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="252.5" y="294" width="114" height="18" as="geometry" />
         </mxCell>
         <mxCell id="nyrnJKPdQ7gU-_98maFI-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" parent="1" source="ybC7mdMI05G3Tud_FAIt-73" target="ybC7mdMI05G3Tud_FAIt-75" edge="1">
