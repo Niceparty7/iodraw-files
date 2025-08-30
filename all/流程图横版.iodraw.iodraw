@@ -19,43 +19,8 @@
         <mxCell id="ybC7mdMI05G3Tud_FAIt-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontFamily=宋体;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="755" y="-93" width="712.5" height="138" as="geometry" />
         </mxCell>
-        <mxCell id="nyrnJKPdQ7gU-_98maFI-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" parent="1" source="ybC7mdMI05G3Tud_FAIt-1" target="ybC7mdMI05G3Tud_FAIt-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-1" value="获取原始数据" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="-66" y="98" width="88" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="nyrnJKPdQ7gU-_98maFI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" parent="1" source="ybC7mdMI05G3Tud_FAIt-16" target="ybC7mdMI05G3Tud_FAIt-26" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="309" y="-14" />
-              <mxPoint x="92" y="-14" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nyrnJKPdQ7gU-_98maFI-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" parent="1" source="ybC7mdMI05G3Tud_FAIt-16" target="ybC7mdMI05G3Tud_FAIt-40" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="309" y="-14" />
-              <mxPoint x="534" y="-14" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nyrnJKPdQ7gU-_98maFI-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="ybC7mdMI05G3Tud_FAIt-16" target="ybC7mdMI05G3Tud_FAIt-38" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="309" y="-14" />
-              <mxPoint x="196" y="-14" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nyrnJKPdQ7gU-_98maFI-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" parent="1" source="ybC7mdMI05G3Tud_FAIt-16" target="ybC7mdMI05G3Tud_FAIt-39" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="309" y="-14" />
-              <mxPoint x="416" y="-14" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-16" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="265" y="-86" width="88" height="37" as="geometry" />
