@@ -282,6 +282,9 @@
         <mxCell id="nyrnJKPdQ7gU-_98maFI-106" value="&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;模型评价&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="3945.75" y="-25" width="129" height="22" as="geometry" />
         </mxCell>
+        <mxCell id="bK2u_tRYtIxW7d59kqQi-2" value="特征&lt;font face=&quot;Times New Roman&quot;&gt;F&lt;sub&gt;2&lt;/sub&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="95" y="12.75" width="22" height="59.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
