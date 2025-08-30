@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nyrnJKPdQ7gU-_98maFI-105" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontFamily=宋体;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="-46.75" y="652" width="712.5" height="119" as="geometry" />
+          <mxGeometry x="3366" y="-72" width="712.5" height="119" as="geometry" />
         </mxCell>
         <mxCell id="nyrnJKPdQ7gU-_98maFI-83" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontFamily=宋体;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="2395" y="-117" width="712.5" height="209" as="geometry" />
@@ -303,10 +303,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-78" value="组合模型预测值" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="265" y="666" width="88" height="37" as="geometry" />
+          <mxGeometry x="3677.75" y="-58" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-79" value="组合模型评价" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="265" y="721" width="88" height="37" as="geometry" />
+          <mxGeometry x="3677.75" y="-3" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="nyrnJKPdQ7gU-_98maFI-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 20px; letter-spacing: 3px; text-align: start;&quot;&gt;•&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 20px; letter-spacing: 3px; text-align: start;&quot;&gt;•&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 20px; letter-spacing: 3px; text-align: start;&quot;&gt;•&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="1841.75" y="1.5" width="34" height="12" as="geometry" />
@@ -454,7 +454,7 @@
           <mxGeometry x="2974.75" y="-46" width="129" height="22" as="geometry" />
         </mxCell>
         <mxCell id="nyrnJKPdQ7gU-_98maFI-106" value="&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;模型评价&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="533" y="699" width="129" height="22" as="geometry" />
+          <mxGeometry x="3945.75" y="-25" width="129" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
