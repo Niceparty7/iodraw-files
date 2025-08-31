@@ -144,7 +144,7 @@
           <mxGeometry x="382" y="-79" width="91" height="23" as="geometry" />
         </mxCell>
         <mxCell id="nyrnJKPdQ7gU-_98maFI-104" value="&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;预测结果重构&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="533" y="274" width="129" height="22" as="geometry" />
+          <mxGeometry x="241.5" y="270" width="129" height="22" as="geometry" />
         </mxCell>
         <mxCell id="nyrnJKPdQ7gU-_98maFI-106" value="&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;模型评价&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="533" y="467" width="129" height="22" as="geometry" />
@@ -153,7 +153,7 @@
           <mxGeometry x="260" y="89" width="99" height="24" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;KPCA&lt;/font&gt;核主成分分析" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="253" y="164" width="114" height="18" as="geometry" />
+          <mxGeometry x="253" y="141" width="114" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
