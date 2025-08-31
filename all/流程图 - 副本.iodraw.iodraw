@@ -27,6 +27,9 @@
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-60" value="特征&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;F&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;sub style=&quot;font-size: 12px;&quot;&gt;n-1&lt;/sub&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;" vertex="1" parent="_Cq1YtxC5MQAJUo_YYTp-55">
           <mxGeometry x="479" y="197" width="50" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_Cq1YtxC5MQAJUo_YYTp-55" source="_Cq1YtxC5MQAJUo_YYTp-1" target="_Cq1YtxC5MQAJUo_YYTp-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;ICEEMDAN&lt;/font&gt;分解" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;" vertex="1" parent="_Cq1YtxC5MQAJUo_YYTp-55">
           <mxGeometry x="231" y="271" width="99" height="24" as="geometry" />
         </mxCell>
@@ -277,6 +280,9 @@
               <mxPoint x="312" y="308" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_Cq1YtxC5MQAJUo_YYTp-98" target="ybC7mdMI05G3Tud_FAIt-73">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
