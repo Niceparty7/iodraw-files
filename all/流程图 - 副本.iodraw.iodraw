@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="2IFZjPLRQj1854PvzZAX">
-    <mxGraphModel dx="1336" dy="875" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1055" dy="733" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,6 +70,9 @@
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-98" value="&lt;font face=&quot;Times New Roman&quot;&gt;KPCA&lt;/font&gt;降维" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;" vertex="1" parent="_Cq1YtxC5MQAJUo_YYTp-55">
           <mxGeometry x="231" y="312" width="99" height="24" as="geometry" />
         </mxCell>
+        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="_Cq1YtxC5MQAJUo_YYTp-55" source="ybC7mdMI05G3Tud_FAIt-76" target="ybC7mdMI05G3Tud_FAIt-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-76" value="提取全局特征" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;" parent="_Cq1YtxC5MQAJUo_YYTp-55" vertex="1">
           <mxGeometry x="367" y="433" width="88" height="37" as="geometry" />
         </mxCell>
@@ -81,6 +84,9 @@
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-74" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;Informer&lt;/font&gt;模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;" parent="_Cq1YtxC5MQAJUo_YYTp-55" vertex="1">
           <mxGeometry x="367" y="376" width="88" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_Cq1YtxC5MQAJUo_YYTp-55" source="ybC7mdMI05G3Tud_FAIt-75" target="ybC7mdMI05G3Tud_FAIt-77">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-75" value="提取局部特征" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;" parent="_Cq1YtxC5MQAJUo_YYTp-55" vertex="1">
           <mxGeometry x="106" y="433" width="88" height="37" as="geometry" />
