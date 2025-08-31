@@ -207,8 +207,8 @@
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-24" value="&lt;font face=&quot;Inter, -apple-system, BlinkMacSystemFont, Segoe UI, SF Pro SC, SF Pro Display, SF Pro Icons, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#ba0085&quot;&gt;&lt;span style=&quot;font-size: 16px; white-space-collapse: preserve; background-color: rgba(0, 0, 0, 0.04);&quot;&gt;对协方差矩阵进行特征性分解，得到m个最大单位的特征向量&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="634" y="224" width="251" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-25" value="&lt;font face=&quot;Inter, -apple-system, BlinkMacSystemFont, Segoe UI, SF Pro SC, SF Pro Display, SF Pro Icons, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#ba0085&quot;&gt;&lt;span style=&quot;font-size: 16px; white-space-collapse: preserve; background-color: rgba(0, 0, 0, 0.04);&quot;&gt;对协方差矩阵进行特征性分解，得到m个最大单位的特征向量&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="644" y="234" width="251" height="36" as="geometry" />
+        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-25" value="&lt;font face=&quot;Inter, -apple-system, BlinkMacSystemFont, Segoe UI, SF Pro SC, SF Pro Display, SF Pro Icons, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#ba0085&quot;&gt;&lt;span style=&quot;font-size: 16px; white-space-collapse: preserve; background-color: rgba(0, 0, 0, 0.04);&quot;&gt;得到投影矩阵，获取降维后的数据&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="646" y="296" width="251" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
