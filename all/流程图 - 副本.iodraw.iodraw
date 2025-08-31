@@ -168,6 +168,9 @@
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;KPCA&lt;/font&gt;核主成分分析" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="249" y="141" width="114" height="18" as="geometry" />
         </mxCell>
+        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-11" value="获取原始数据" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="275" y="-119" width="88" height="42" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
