@@ -456,6 +456,9 @@
         <mxCell id="nyrnJKPdQ7gU-_98maFI-106" value="&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;模型评价&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="533" y="699" width="129" height="22" as="geometry" />
         </mxCell>
+        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;ICEEMDAN&lt;/font&gt;分解" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="-291" y="-44" width="99" height="24" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
