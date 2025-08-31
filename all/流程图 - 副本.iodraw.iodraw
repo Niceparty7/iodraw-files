@@ -189,13 +189,13 @@
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-77" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;verticalAlign=middle;" edge="1" parent="1" source="_Cq1YtxC5MQAJUo_YYTp-37" target="_Cq1YtxC5MQAJUo_YYTp-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-37" value="生成第一IMF分量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;flipV=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-37" value="生成第一个&lt;font face=&quot;Times New Roman&quot;&gt;IMF&lt;/font&gt;分量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;flipV=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="-206" y="157" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-78" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;verticalAlign=middle;" edge="1" parent="1" source="_Cq1YtxC5MQAJUo_YYTp-38" target="_Cq1YtxC5MQAJUo_YYTp-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-38" value="迭代生成第k个IMF分量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;flipV=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-38" value="迭代生成第&lt;font face=&quot;Times New Roman&quot;&gt;k&lt;/font&gt;个&lt;font face=&quot;Times New Roman&quot;&gt;IMF&lt;/font&gt;分量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;flipV=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="-206" y="254" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;verticalAlign=middle;" edge="1" parent="1" source="_Cq1YtxC5MQAJUo_YYTp-39" target="_Cq1YtxC5MQAJUo_YYTp-41">
