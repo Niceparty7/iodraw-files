@@ -231,6 +231,12 @@
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-44" value="&lt;div style=&quot;text-align: start;&quot;&gt;对样本集中的样本进行中心化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="903" y="79" width="174" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-45" value="&lt;div style=&quot;text-align: start;&quot;&gt;计算样本集中的的协方差矩阵&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="908" y="148" width="174" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-46" value="&lt;div style=&quot;text-align: start;&quot;&gt;计算样本集中的的协方差矩阵&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="918" y="158" width="174" height="37" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
