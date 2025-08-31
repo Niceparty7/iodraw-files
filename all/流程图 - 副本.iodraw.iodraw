@@ -178,16 +178,16 @@
           <mxGeometry x="-182.5" y="451" width="88" height="42" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-35" value="碳排放多维时间序列变量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-235" y="-62" width="169" height="37" as="geometry" />
+          <mxGeometry x="-235" y="264.5" width="169" height="37" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-36" value="确定集合数量与噪声幅值系数完成初始化设置" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-235" y="23" width="169" height="37" as="geometry" />
+          <mxGeometry x="-235" y="264.5" width="169" height="37" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-37" value="生成第1IMF分量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-235" y="90.5" width="169" height="37" as="geometry" />
+          <mxGeometry x="-235" y="264.5" width="169" height="37" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-38" value="迭代生成第k个IMF分量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-235" y="158" width="169" height="37" as="geometry" />
+          <mxGeometry x="-235" y="264.5" width="169" height="37" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-39" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="681" y="-99" width="88" height="42" as="geometry" />
