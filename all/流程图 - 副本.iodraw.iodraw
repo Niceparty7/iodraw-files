@@ -181,7 +181,10 @@
           <mxGeometry x="-343" y="22" width="162" height="37" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-15" value="&lt;font face=&quot;宋体&quot;&gt;判断残差是否满足终止准则&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="90" width="106" height="48" as="geometry" />
+          <mxGeometry x="-343" y="82" width="166" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-16" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="-298" y="-94" width="82" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
