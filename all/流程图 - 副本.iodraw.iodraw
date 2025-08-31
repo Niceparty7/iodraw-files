@@ -208,7 +208,7 @@
           <mxGeometry x="681" y="446" width="88" height="42" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-50" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-345" y="-122" width="200" height="676" as="geometry" />
+          <mxGeometry x="-216" y="-164" width="200" height="676" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
