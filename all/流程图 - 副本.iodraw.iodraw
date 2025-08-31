@@ -205,16 +205,19 @@
           <mxGeometry x="-328" y="-56" width="156" height="25" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-30" value="确定集合数量与噪声幅值系数完成初始化设置" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-332" y="-14" width="156" height="34" as="geometry" />
+          <mxGeometry x="-328" y="23" width="156" height="34" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-31" value="生成第1IMF分量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-328" y="44" width="156" height="34" as="geometry" />
+          <mxGeometry x="-313" y="94" width="156" height="34" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-32" value="迭代生成第k个IMF分量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-326" y="151" width="156" height="34" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-33" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-285" y="439" width="88" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-35" value="组合模型预测值" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="271.75" y="406" width="88" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
