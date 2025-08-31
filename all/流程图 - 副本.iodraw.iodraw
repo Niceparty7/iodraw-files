@@ -54,41 +54,14 @@
         <mxCell id="ybC7mdMI05G3Tud_FAIt-16" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="265" y="-86" width="88" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="nyrnJKPdQ7gU-_98maFI-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" parent="1" source="ybC7mdMI05G3Tud_FAIt-26" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="74" y="95" />
-              <mxPoint x="309" y="95" />
-            </Array>
-            <mxPoint x="309" y="138" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-26" value="特征&lt;font face=&quot;Times New Roman&quot;&gt;F&lt;sub&gt;1&lt;/sub&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="38" y="20" width="71" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-37" value="不同类别的特征因素" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="252.5" y="-6" width="113" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="nyrnJKPdQ7gU-_98maFI-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" parent="1" source="ybC7mdMI05G3Tud_FAIt-38" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="195" y="95" />
-              <mxPoint x="309" y="95" />
-            </Array>
-            <mxPoint x="309" y="138" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-38" value="特征&lt;font face=&quot;Times New Roman&quot;&gt;F&lt;sub&gt;2&lt;/sub&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="160" y="20" width="71" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="nyrnJKPdQ7gU-_98maFI-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" parent="1" source="ybC7mdMI05G3Tud_FAIt-39" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="416" y="95" />
-              <mxPoint x="309" y="95" />
-            </Array>
-            <mxPoint x="309" y="138" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-39" value="特征&lt;font face=&quot;Times New Roman&quot;&gt;F&lt;sub&gt;n-1&lt;/sub&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="380" y="20" width="71" height="25" as="geometry" />
