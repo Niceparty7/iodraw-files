@@ -189,8 +189,11 @@
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-18" value="迭代生成第k个IMF分量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="-202" y="163" width="162" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-19" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-19" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="707" y="-68" width="82" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-20" value="碳排放多维时间序列变量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="-189" y="27" width="146" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
