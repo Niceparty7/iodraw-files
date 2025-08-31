@@ -225,6 +225,9 @@
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-37" value="生成第1IMF分量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-575" y="87.5" width="169" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-38" value="迭代生成第k个IMF分量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-575" y="181" width="169" height="37" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
