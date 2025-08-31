@@ -84,14 +84,6 @@
         <mxCell id="nyrnJKPdQ7gU-_98maFI-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;" parent="_Cq1YtxC5MQAJUo_YYTp-55" source="ybC7mdMI05G3Tud_FAIt-74" target="ybC7mdMI05G3Tud_FAIt-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_Cq1YtxC5MQAJUo_YYTp-55" source="_Cq1YtxC5MQAJUo_YYTp-98" target="ybC7mdMI05G3Tud_FAIt-74">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="280" y="363" />
-              <mxPoint x="424" y="363" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-75" value="提取局部特征" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;" parent="_Cq1YtxC5MQAJUo_YYTp-55" vertex="1">
           <mxGeometry x="106" y="433" width="88" height="37" as="geometry" />
         </mxCell>
