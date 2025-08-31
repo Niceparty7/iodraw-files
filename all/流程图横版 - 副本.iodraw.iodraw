@@ -224,19 +224,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-41" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;ICEEMDAN&lt;/font&gt;分解后的特征序列&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="606" y="-59" width="174" height="37" as="geometry" />
+          <mxGeometry x="606" y="-46" width="174" height="37" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;verticalAlign=middle;" parent="1" source="_Cq1YtxC5MQAJUo_YYTp-43" target="_Cq1YtxC5MQAJUo_YYTp-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-43" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;线性函数归一化得到标准化矩阵&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="606" y="14" width="174" height="37" as="geometry" />
+          <mxGeometry x="606" y="40" width="174" height="37" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;verticalAlign=middle;" parent="1" source="_Cq1YtxC5MQAJUo_YYTp-44" target="_Cq1YtxC5MQAJUo_YYTp-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-44" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;对样本集中的样本进行中心化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="606" y="86" width="174" height="37" as="geometry" />
+          <mxGeometry x="606" y="126" width="174" height="37" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;verticalAlign=middle;" parent="1" source="_Cq1YtxC5MQAJUo_YYTp-45" target="_Cq1YtxC5MQAJUo_YYTp-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -248,19 +248,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-46" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;对协方差矩阵进行特征性分解，得到&lt;font face=&quot;Times New Roman&quot;&gt;m&lt;/font&gt;个最大单位的特征向量&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="606" y="231" width="174" height="37" as="geometry" />
+          <mxGeometry x="606" y="212" width="174" height="37" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;verticalAlign=middle;" parent="1" source="_Cq1YtxC5MQAJUo_YYTp-47" target="_Cq1YtxC5MQAJUo_YYTp-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-47" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;得到投影矩阵，获取降维后数据&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="606" y="304" width="174" height="37" as="geometry" />
+          <mxGeometry x="606" y="298" width="174" height="37" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;verticalAlign=middle;" parent="1" source="_Cq1YtxC5MQAJUo_YYTp-48" target="_Cq1YtxC5MQAJUo_YYTp-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-48" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;与核函数进行拟合，转换到新的矩阵&lt;font face=&quot;Times New Roman&quot;&gt;k&lt;/font&gt;并得出相关参数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="606" y="376" width="174" height="37" as="geometry" />
+          <mxGeometry x="606" y="384" width="174" height="37" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;" parent="1" source="_Cq1YtxC5MQAJUo_YYTp-50" target="_Cq1YtxC5MQAJUo_YYTp-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
