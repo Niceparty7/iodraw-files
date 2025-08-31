@@ -180,7 +180,7 @@
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-14" value="对原始信号添加不同高斯白噪声序列，迭代生成IMF分量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="-343" y="22" width="162" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-15" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-15" value="判断残差是否满足终止准则" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-320" y="90" width="106" height="48" as="geometry" />
         </mxCell>
       </root>
