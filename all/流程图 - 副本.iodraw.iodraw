@@ -10,7 +10,7 @@
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-3" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontFamily=宋体;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="34" y="198" width="550" height="213" as="geometry" />
         </mxCell>
-        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nyrnJKPdQ7gU-_98maFI-63" target="_Cq1YtxC5MQAJUo_YYTp-1">
+        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nyrnJKPdQ7gU-_98maFI-63" target="_Cq1YtxC5MQAJUo_YYTp-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nyrnJKPdQ7gU-_98maFI-63" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontFamily=宋体;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
@@ -153,7 +153,7 @@
           <mxGeometry x="429" y="468.5" width="129" height="22" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;ICEEMDAN&lt;/font&gt;分解" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="259" y="94" width="99" height="24" as="geometry" />
+          <mxGeometry x="258" y="94" width="99" height="24" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;KPCA&lt;/font&gt;核主成分分析" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="253" y="141" width="114" height="18" as="geometry" />
