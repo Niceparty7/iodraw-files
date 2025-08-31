@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-4" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontFamily=宋体;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="31.25" y="378" width="550" height="121" as="geometry" />
-        </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-3" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontFamily=宋体;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="30.75" y="172" width="550" height="194" as="geometry" />
         </mxCell>
@@ -224,7 +221,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-55" value="ICEEMDAN" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="94" y="-177" width="276" height="676" as="geometry">
+          <mxGeometry x="24" y="-177" width="346" height="676" as="geometry">
             <mxRectangle x="-259" y="-177" width="98" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
