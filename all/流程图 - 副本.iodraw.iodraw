@@ -150,7 +150,7 @@
           <mxGeometry x="533" y="699" width="129" height="22" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;ICEEMDAN&lt;/font&gt;分解" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="-291" y="-44" width="99" height="24" as="geometry" />
+          <mxGeometry x="260" y="106" width="99" height="24" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;KPCA&lt;/font&gt;核主成分分析" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="766" y="276" width="114" height="18" as="geometry" />
