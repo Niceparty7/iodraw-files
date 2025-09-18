@@ -37,7 +37,7 @@
         <mxCell id="g12mu7miM2ZYD0wP9tqr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="g12mu7miM2ZYD0wP9tqr-7" target="g12mu7miM2ZYD0wP9tqr-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g12mu7miM2ZYD0wP9tqr-7" value="编码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fcbeff;strokeColor=#000000;fontFamily=宋体;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="g12mu7miM2ZYD0wP9tqr-7" value="解码器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fcbeff;strokeColor=#000000;fontFamily=宋体;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="451" y="165" width="73" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g12mu7miM2ZYD0wP9tqr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="g12mu7miM2ZYD0wP9tqr-9" target="g12mu7miM2ZYD0wP9tqr-7" edge="1">
