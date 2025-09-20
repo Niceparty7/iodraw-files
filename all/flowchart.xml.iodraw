@@ -44,14 +44,17 @@
         <mxCell id="OF4hMfvBH4YKuhht1DMY-4" value="是否登录成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="235" y="440" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="OF4hMfvBH4YKuhht1DMY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OF4hMfvBH4YKuhht1DMY-5" target="OF4hMfvBH4YKuhht1DMY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OF4hMfvBH4YKuhht1DMY-5" value="提交订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OF4hMfvBH4YKuhht1DMY-6" value="是否提交订单成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="235" y="630" width="80" height="80" as="geometry" />
+          <mxGeometry x="310" y="670" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OF4hMfvBH4YKuhht1DMY-7" value="支付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OF4hMfvBH4YKuhht1DMY-8" value="是否支付成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="840" width="80" height="80" as="geometry" />
