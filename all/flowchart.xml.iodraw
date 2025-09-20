@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OF4hMfvBH4YKuhht1DMY-0" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OF4hMfvBH4YKuhht1DMY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OF4hMfvBH4YKuhht1DMY-1" target="OF4hMfvBH4YKuhht1DMY-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OF4hMfvBH4YKuhht1DMY-1" value="选择商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OF4hMfvBH4YKuhht1DMY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OF4hMfvBH4YKuhht1DMY-2" target="OF4hMfvBH4YKuhht1DMY-3">
           <mxGeometry relative="1" as="geometry" />
