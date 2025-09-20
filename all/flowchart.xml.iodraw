@@ -50,6 +50,14 @@
         <mxCell id="OF4hMfvBH4YKuhht1DMY-5" value="提交订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="555" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OF4hMfvBH4YKuhht1DMY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OF4hMfvBH4YKuhht1DMY-6" target="OF4hMfvBH4YKuhht1DMY-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OF4hMfvBH4YKuhht1DMY-20" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OF4hMfvBH4YKuhht1DMY-19">
+          <mxGeometry x="-0.2222" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OF4hMfvBH4YKuhht1DMY-6" value="是否提交订单成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="670" width="80" height="80" as="geometry" />
         </mxCell>
