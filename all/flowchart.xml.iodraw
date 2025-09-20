@@ -78,7 +78,7 @@
         <mxCell id="OF4hMfvBH4YKuhht1DMY-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OF4hMfvBH4YKuhht1DMY-8" target="OF4hMfvBH4YKuhht1DMY-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OF4hMfvBH4YKuhht1DMY-28" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OF4hMfvBH4YKuhht1DMY-27">
+        <mxCell id="OF4hMfvBH4YKuhht1DMY-28" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OF4hMfvBH4YKuhht1DMY-27">
           <mxGeometry x="-0.5859" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -91,6 +91,9 @@
         </mxCell>
         <mxCell id="OF4hMfvBH4YKuhht1DMY-26" value="支付失败" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OF4hMfvBH4YKuhht1DMY-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
