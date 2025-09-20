@@ -24,6 +24,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OF4hMfvBH4YKuhht1DMY-36" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OF4hMfvBH4YKuhht1DMY-2" target="OF4hMfvBH4YKuhht1DMY-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OF4hMfvBH4YKuhht1DMY-37" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OF4hMfvBH4YKuhht1DMY-36">
+          <mxGeometry x="0.0286" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OF4hMfvBH4YKuhht1DMY-2" value="是否选择成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="210" width="70" height="80" as="geometry" />
         </mxCell>
@@ -117,7 +125,7 @@
           <mxGeometry x="340" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OF4hMfvBH4YKuhht1DMY-35" value="登录失败" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
