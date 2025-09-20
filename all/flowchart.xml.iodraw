@@ -75,6 +75,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OF4hMfvBH4YKuhht1DMY-25" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OF4hMfvBH4YKuhht1DMY-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OF4hMfvBH4YKuhht1DMY-8" value="是否支付成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="690" width="80" height="80" as="geometry" />
         </mxCell>
