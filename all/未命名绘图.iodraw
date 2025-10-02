@@ -50,7 +50,7 @@
           <mxGeometry x="687" y="-243" width="136.5" height="69" as="geometry" />
         </mxCell>
         <mxCell id="r_6tbBeGa4efDsgiDJng-18" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="141" y="-343" width="200" height="200" as="geometry" />
+          <mxGeometry x="141" y="-343" width="200" height="751" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
