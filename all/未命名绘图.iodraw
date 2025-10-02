@@ -61,6 +61,12 @@
         <mxCell id="r_6tbBeGa4efDsgiDJng-22" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="377" y="-70" width="87" height="73" as="geometry" />
         </mxCell>
+        <mxCell id="r_6tbBeGa4efDsgiDJng-23" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="377" y="116.5" width="87" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="r_6tbBeGa4efDsgiDJng-24" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="387" y="126.5" width="87" height="73" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
