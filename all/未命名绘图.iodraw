@@ -7,14 +7,14 @@
         <mxCell id="r_6tbBeGa4efDsgiDJng-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="377" y="-191" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r_6tbBeGa4efDsgiDJng-2" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt; background-color: initial;&quot;&gt;碳排放时间序列的非线性与非平稳性问题：现有模型难以有效分解多尺度特征，导致高频噪声与低频趋势混叠，影响预测精度；&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" vertex="1" parent="1">
-          <mxGeometry x="173" y="-128" width="177" height="149" as="geometry" />
+        <mxCell id="r_6tbBeGa4efDsgiDJng-2" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt; background-color: initial;&quot;&gt;碳排放时间序列的非线性与非平稳性问题：现有模型难以有效分解多尺度特征，导致高频噪声与低频趋势混叠，影响预测精度&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" vertex="1" parent="1">
+          <mxGeometry x="171" y="-143" width="177" height="149" as="geometry" />
         </mxCell>
         <mxCell id="r_6tbBeGa4efDsgiDJng-3" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="856" y="-40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r_6tbBeGa4efDsgiDJng-4" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt; background-color: initial;&quot;&gt;碳排放时间序列的非线性与非平稳性问题：现有模型难以有效分解多尺度特征，导致高频噪声与低频趋势混叠，影响预测精度；&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" vertex="1" parent="1">
-          <mxGeometry x="183" y="-118" width="177" height="149" as="geometry" />
+          <mxGeometry x="175" y="37" width="177" height="149" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
