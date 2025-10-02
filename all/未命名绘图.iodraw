@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="r_6tbBeGa4efDsgiDJng-1" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="r_6tbBeGa4efDsgiDJng-1" value="主要解决问题" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="199.5" y="-254" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r_6tbBeGa4efDsgiDJng-2" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(252, 252, 252);&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;碳排放时间序列非线性、非平稳性突出，现有模型多尺度特征分解不足，高频噪声与低频趋势混叠影响精度&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;" vertex="1" parent="1">
