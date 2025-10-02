@@ -29,7 +29,7 @@
           <mxGeometry x="425" y="215" width="186" height="141.5" as="geometry" />
         </mxCell>
         <mxCell id="r_6tbBeGa4efDsgiDJng-9" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: rgb(252, 252, 252); font-size: 16px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;1.&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; background-color: rgb(252, 252, 252); font-size: 16px;&quot;&gt;优化模型训练策略，抑制过拟合；&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 0px; padding: 0px; overflow-anchor: auto; font-size: 16px; background-color: rgb(252, 252, 252);&quot; class=&quot;container-Uxvbjy md-box-line-break wrapper-GYqxgQ undefined&quot;&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(252, 252, 252);&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;2.&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;划分数据集，采用多指标与多种对比模型开展验证分析&lt;/font&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=right;" vertex="1" parent="1">
-          <mxGeometry x="441" y="392" width="177" height="197" as="geometry" />
+          <mxGeometry x="441" y="392" width="177" height="167" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
