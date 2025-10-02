@@ -25,7 +25,7 @@
         <mxCell id="r_6tbBeGa4efDsgiDJng-7" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;实施 &lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;KPCA &lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;非线性降维优化，对分解后的特征进行冗余剔除与维度压缩&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="429" y="40.75" width="186" height="141.5" as="geometry" />
         </mxCell>
-        <mxCell id="r_6tbBeGa4efDsgiDJng-8" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;模型协同效果不佳&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;构建 LSTM-Informer 串联融合模型，分阶段提取局部与全局特征并进行融合输出&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+        <mxCell id="r_6tbBeGa4efDsgiDJng-8" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;构建 &lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;LSTM-Informer&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;&amp;nbsp;融合模型，分阶段提取局部与全局特征并进行融合输出&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="425" y="215" width="186" height="141.5" as="geometry" />
         </mxCell>
       </root>
