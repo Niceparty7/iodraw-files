@@ -40,8 +40,8 @@
         <mxCell id="r_6tbBeGa4efDsgiDJng-14" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; background-color: rgb(252, 252, 252);&quot;&gt;实现碳排放时间序列局部短期依赖特征与全局长期趋势特征的高效协同建模，解决单一模型 “偏科” 问题，提升模型对复杂序列特征的捕捉能力&lt;/span&gt;&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="670" y="227.25" width="186" height="141.5" as="geometry" />
         </mxCell>
-        <mxCell id="r_6tbBeGa4efDsgiDJng-15" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; background-color: rgb(252, 252, 252);&quot;&gt;实现碳排放时间序列局部短期依赖特征与全局长期趋势特征的高效协同建模，解决单一模型 “偏科” 问题，提升模型对复杂序列特征的捕捉能力&lt;/span&gt;&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="237.25" width="186" height="141.5" as="geometry" />
+        <mxCell id="r_6tbBeGa4efDsgiDJng-15" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; background-color: rgb(252, 252, 252);&quot;&gt;使混合模型性能优于对比模型，兼顾预测精度与稳定性，满足 “双碳” 决策需求&lt;/span&gt;&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="663" y="441" width="186" height="141.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
