@@ -7,8 +7,8 @@
         <mxCell id="r_6tbBeGa4efDsgiDJng-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="377" y="-191" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r_6tbBeGa4efDsgiDJng-2" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;碳排放时间序列的非线性与非平稳性问题：现有模型难以有效分解多尺度特征，导致高频噪声与低频趋势混叠，影响预测精度；&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="207" y="-87" width="157" height="138" as="geometry" />
+        <mxCell id="r_6tbBeGa4efDsgiDJng-2" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt; background-color: initial;&quot;&gt;碳排放时间序列的非线性与非平稳性问题：现有模型难以有效分解多尺度特征，导致高频噪声与低频趋势混叠，影响预测精度；&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=left;" vertex="1" parent="1">
+          <mxGeometry x="207" y="-87" width="178" height="148" as="geometry" />
         </mxCell>
         <mxCell id="r_6tbBeGa4efDsgiDJng-3" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="856" y="-40" width="120" height="80" as="geometry" />
