@@ -70,6 +70,18 @@
         <mxCell id="r_6tbBeGa4efDsgiDJng-25" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="377" y="488.5" width="87" height="73" as="geometry" />
         </mxCell>
+        <mxCell id="r_6tbBeGa4efDsgiDJng-26" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="693" y="-70" width="87" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="r_6tbBeGa4efDsgiDJng-27" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="693" y="116.5" width="87" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="r_6tbBeGa4efDsgiDJng-28" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="693" y="295.5" width="87" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="r_6tbBeGa4efDsgiDJng-29" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="693" y="488.5" width="87" height="73" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
