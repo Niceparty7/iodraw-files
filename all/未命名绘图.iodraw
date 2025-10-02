@@ -58,6 +58,9 @@
         <mxCell id="r_6tbBeGa4efDsgiDJng-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;研究目标&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;flipH=0;fontStyle=1;fillColor=#8e59de;opacity=30;fontFamily=微软雅黑;strokeColor=#000000;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="825.5" y="-218" width="136.5" height="69" as="geometry" />
         </mxCell>
+        <mxCell id="r_6tbBeGa4efDsgiDJng-22" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-91" width="87" height="71" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
