@@ -136,7 +136,7 @@
           <mxGeometry x="4" y="3" width="20" height="18" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-28" value="start" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontStyle=1" parent="_Cq1YtxC5MQAJUo_YYTp-50" vertex="1">
-          <mxGeometry x="94" y="43" width="88" height="42" as="geometry" />
+          <mxGeometry x="94" y="30" width="88" height="42" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-35" value="Multidimensional time series variable of carbon emissions" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;flipV=0;align=center;verticalAlign=middle;fontStyle=1" parent="_Cq1YtxC5MQAJUo_YYTp-50" vertex="1">
           <mxGeometry x="53" y="141" width="170" height="40" as="geometry" />
