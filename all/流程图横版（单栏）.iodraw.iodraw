@@ -93,7 +93,7 @@
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-95" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1;fontFamily=Times New Roman;" parent="_Cq1YtxC5MQAJUo_YYTp-50" vertex="1">
           <mxGeometry x="4" y="3" width="20" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-28" value="start" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontStyle=1" parent="_Cq1YtxC5MQAJUo_YYTp-50" vertex="1">
+        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-28" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontStyle=1" parent="_Cq1YtxC5MQAJUo_YYTp-50" vertex="1">
           <mxGeometry x="94" y="30" width="88" height="42" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-35" value="Multidimensional time series variable of carbon emissions" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;flipV=0;align=center;verticalAlign=middle;fontStyle=1" parent="_Cq1YtxC5MQAJUo_YYTp-50" vertex="1">
@@ -284,7 +284,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-74" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Informer&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;&quot;&gt;Model&lt;/span&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="392" y="199" width="94.25" height="37" as="geometry" />
+          <mxGeometry x="398.25" y="199" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontFamily=Times New Roman;" parent="1" source="ybC7mdMI05G3Tud_FAIt-75" target="ybC7mdMI05G3Tud_FAIt-77" edge="1">
           <mxGeometry relative="1" as="geometry">
