@@ -204,7 +204,7 @@
           <mxGeometry x="1129" y="177.58" width="50" height="109" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--88" value="Encoder input：&lt;font&gt;&lt;b&gt;X&lt;sub&gt;en&lt;/sub&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-310" y="125.5" width="160" height="54" as="geometry" />
+          <mxGeometry x="-396" y="125.5" width="160" height="54" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--89" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;Decoder&amp;nbsp;&lt;/span&gt;input：&lt;font&gt;&lt;b&gt;X&lt;sub&gt;de&lt;/sub&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;={X&lt;sub&gt;token&lt;/sub&gt;,X&lt;sub&gt;0&lt;/sub&gt;}&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="469" y="331" width="178" height="47" as="geometry" />
@@ -219,13 +219,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--91" value="&lt;b&gt;One-dimensional convolutional layer&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#7fb3c8;fontFamily=Times New Roman;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="-73" y="-76.87" width="20" height="458.75" as="geometry" />
+          <mxGeometry x="-74" y="-76.87" width="20" height="458.75" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--269" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=16;fontColor=default;labelBorderColor=default;resizable=1;shape=flexArrow;fillColor=#00a5e5;" parent="1" source="DZGh_-k8ClZEZPDrQXv--203" target="DZGh_-k8ClZEZPDrQXv--91" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--203" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=16;fontColor=default;labelBorderColor=default;resizable=1;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-176" y="12" width="55" height="281" as="geometry" />
+          <mxGeometry x="-262" y="12" width="55" height="281" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--204" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;shadow=0;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=16;fontColor=default;labelBorderColor=default;resizable=1;" parent="DZGh_-k8ClZEZPDrQXv--203" vertex="1">
           <mxGeometry width="55" height="28" as="geometry" />
