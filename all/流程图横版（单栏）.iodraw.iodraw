@@ -85,7 +85,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-50" value="&lt;font&gt;ICEEMDAN feature decomposition process&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-50" value="&lt;font&gt;ICEEMDAN Feature Decomposition Process&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-233" y="-177" width="276" height="684" as="geometry">
             <mxRectangle x="-259" y="-177" width="98" height="26" as="alternateBounds" />
           </mxGeometry>
