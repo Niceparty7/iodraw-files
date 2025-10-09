@@ -158,13 +158,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZNDrC8R75FNUpBIXloAY-2" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZNDrC8R75FNUpBIXloAY-1">
+        <mxCell id="ZNDrC8R75FNUpBIXloAY-2" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="ZNDrC8R75FNUpBIXloAY-1">
           <mxGeometry x="-0.0497" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZNDrC8R75FNUpBIXloAY-3" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZNDrC8R75FNUpBIXloAY-1">
-          <mxGeometry x="-0.0624" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
