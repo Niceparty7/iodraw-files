@@ -463,7 +463,7 @@
         <mxCell id="DZGh_-k8ClZEZPDrQXv--275" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=16;fontColor=default;labelBorderColor=default;resizable=1;shape=flexArrow;fillColor=#00a5e5;" parent="1" source="DZGh_-k8ClZEZPDrQXv--265" target="DZGh_-k8ClZEZPDrQXv--274" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DZGh_-k8ClZEZPDrQXv--265" value="输出全局特征&lt;font face=&quot;Times New Roman&quot;&gt;F&lt;sub&gt;Informer&lt;/sub&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=16;fontColor=default;labelBorderColor=none;resizable=1;fillColor=default;dashed=1;" parent="1" vertex="1">
+        <mxCell id="DZGh_-k8ClZEZPDrQXv--265" value="Output global features&amp;nbsp;&lt;font face=&quot;Times New Roman&quot;&gt;F&lt;sub&gt;Informer&lt;/sub&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=16;fontColor=default;labelBorderColor=none;resizable=1;fillColor=default;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="705" y="122.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--280" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=16;fontColor=default;labelBorderColor=default;resizable=1;shape=flexArrow;fillColor=#00a5e5;" parent="1" source="DZGh_-k8ClZEZPDrQXv--274" target="DZGh_-k8ClZEZPDrQXv--278" edge="1">
