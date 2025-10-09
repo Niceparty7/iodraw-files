@@ -176,13 +176,13 @@
           <mxGeometry x="60.5" y="340" width="174" height="37" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-46" value="&lt;div style=&quot;&quot;&gt;Perform characteristic decomposition on the covariance matrix to obtain m eigenvectors with the largest units&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontStyle=1" parent="_Cq1YtxC5MQAJUo_YYTp-51" vertex="1">
-          <mxGeometry x="60.5" y="396" width="174" height="60" as="geometry" />
+          <mxGeometry x="60.5" y="402" width="174" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-47" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;Obtain the projection matrix and obtain the reduced dimensional data&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontStyle=1" parent="_Cq1YtxC5MQAJUo_YYTp-51" vertex="1">
-          <mxGeometry x="60.5" y="487" width="174" height="44" as="geometry" />
+          <mxGeometry x="60.5" y="484" width="174" height="44" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-48" value="&lt;div style=&quot;&quot;&gt;Fit to the kernel function, transform to a new matrix k, and obtain the relevant parameters&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontStyle=1" parent="_Cq1YtxC5MQAJUo_YYTp-51" vertex="1">
-          <mxGeometry x="60.5" y="548" width="174" height="50" as="geometry" />
+          <mxGeometry x="60.5" y="554" width="174" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;verticalAlign=middle;fontStyle=1;fontFamily=Times New Roman;" parent="_Cq1YtxC5MQAJUo_YYTp-51" source="_Cq1YtxC5MQAJUo_YYTp-39" target="_Cq1YtxC5MQAJUo_YYTp-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
