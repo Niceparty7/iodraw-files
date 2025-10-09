@@ -470,10 +470,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--274" value="&lt;b&gt;Fusion feature module&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#FDE8FE;fontFamily=Times New Roman;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="911" y="-77.43" width="52" height="459.87" as="geometry" />
+          <mxGeometry x="911" y="-77.43" width="60" height="459.87" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--278" value="&lt;b&gt;Fully connected layer&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#D8F3FF;fontFamily=Times New Roman;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="1024" y="-76.87" width="66" height="459.87" as="geometry" />
+          <mxGeometry x="1024" y="-76.87" width="60" height="459.87" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--281" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.234;entryY=0.13;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;fontSize=16;fontColor=default;labelBorderColor=default;resizable=1;shape=flexArrow;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#00a5e5;" parent="1" source="DZGh_-k8ClZEZPDrQXv--278" target="DZGh_-k8ClZEZPDrQXv--252" edge="1">
           <mxGeometry relative="1" as="geometry">
