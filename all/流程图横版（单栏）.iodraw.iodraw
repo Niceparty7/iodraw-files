@@ -22,7 +22,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-1" value="Obtain raw data" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="265" y="-129" width="88" height="42" as="geometry" />
+          <mxGeometry x="265" y="-129" width="94" height="42" as="geometry" />
         </mxCell>
         <mxCell id="nyrnJKPdQ7gU-_98maFI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontStyle=1" parent="1" source="ybC7mdMI05G3Tud_FAIt-16" target="ybC7mdMI05G3Tud_FAIt-26" edge="1">
           <mxGeometry relative="1" as="geometry">
