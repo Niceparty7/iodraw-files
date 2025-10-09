@@ -172,7 +172,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DZGh_-k8ClZEZPDrQXv--79" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="DZGh_-k8ClZEZPDrQXv--79" value="&lt;h2 style=&quot;border: 0px; border-collapse: collapse; border-spacing: 0px; list-style: none; margin: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-weight: 400; font-stretch: normal; font-size: 40px; line-height: 48px; font-family: Arial, Helvetica, sans-serif; overflow-wrap: break-word; color: rgb(17, 17, 17); text-align: start;&quot; class=&quot;b_focusTextMedium&quot;&gt;Self Attention Distillation&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="275" y="122.5" width="80.5" height="42" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--80" value="Multi head probability sparse self attention" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" parent="1" vertex="1">
