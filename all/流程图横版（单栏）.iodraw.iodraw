@@ -223,7 +223,7 @@
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" parent="1" source="_Cq1YtxC5MQAJUo_YYTp-1" target="_Cq1YtxC5MQAJUo_YYTp-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;ICEEMDAN&lt;/font&gt;分解" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;ICEEMDAN&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="262.25" y="94" width="99" height="24" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-64" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;fontStyle=1" parent="1" source="nyrnJKPdQ7gU-_98maFI-63" target="_Cq1YtxC5MQAJUo_YYTp-1" edge="1">
@@ -263,7 +263,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-98" value="&lt;font face=&quot;Times New Roman&quot;&gt;KPCA&lt;/font&gt;降维" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-98" value="&lt;font face=&quot;Times New Roman&quot;&gt;KPCA&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="262.25" y="135" width="99" height="24" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" parent="1" source="ybC7mdMI05G3Tud_FAIt-76" target="ybC7mdMI05G3Tud_FAIt-77" edge="1">
