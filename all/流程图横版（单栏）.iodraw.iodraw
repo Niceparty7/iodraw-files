@@ -134,7 +134,7 @@
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;verticalAlign=middle;fontStyle=1" parent="1" source="_Cq1YtxC5MQAJUo_YYTp-41" target="_Cq1YtxC5MQAJUo_YYTp-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-41" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;ICEEMDAN&lt;/font&gt;分解后的特征序列&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-41" value="&lt;font face=&quot;Times New Roman&quot;&gt;ICEEMDAN decomposed feature sequence&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="594" y="-58" width="174" height="37" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;verticalAlign=middle;fontStyle=1" parent="1" source="_Cq1YtxC5MQAJUo_YYTp-43" target="_Cq1YtxC5MQAJUo_YYTp-44" edge="1">
