@@ -277,7 +277,7 @@
         <mxCell id="ybC7mdMI05G3Tud_FAIt-76" value="提取全局特征" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="398.25" y="256" width="88" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="ybC7mdMI05G3Tud_FAIt-73" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;LSTM&lt;/font&gt;模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="ybC7mdMI05G3Tud_FAIt-73" value="&lt;font face=&quot;Times New Roman&quot;&gt;LSTM model&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="137.25" y="199" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" parent="1" source="ybC7mdMI05G3Tud_FAIt-74" target="ybC7mdMI05G3Tud_FAIt-76" edge="1">
