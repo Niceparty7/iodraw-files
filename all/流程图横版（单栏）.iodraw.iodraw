@@ -229,7 +229,7 @@
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-64" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;fontStyle=1" parent="1" source="nyrnJKPdQ7gU-_98maFI-63" target="_Cq1YtxC5MQAJUo_YYTp-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ybC7mdMI05G3Tud_FAIt-77" value="特征融合预测" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="ybC7mdMI05G3Tud_FAIt-77" value="Feature fusion prediction" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="267.75" y="323" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="P9W_BOP2cNlqBnd41zk4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ybC7mdMI05G3Tud_FAIt-78" target="ybC7mdMI05G3Tud_FAIt-79" edge="1">
