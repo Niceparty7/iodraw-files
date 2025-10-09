@@ -176,19 +176,6 @@
             <mxPoint x="-2" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ss9qYkvhoK1ok0NqWwdJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="_Cq1YtxC5MQAJUo_YYTp-50" source="_Cq1YtxC5MQAJUo_YYTp-15" target="_Cq1YtxC5MQAJUo_YYTp-38" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="55" y="548" />
-              <mxPoint x="55" y="451" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ss9qYkvhoK1ok0NqWwdJ-7" value="&lt;font&gt;N&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;" parent="ss9qYkvhoK1ok0NqWwdJ-6" vertex="1" connectable="0">
-          <mxGeometry x="-0.0355" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-78" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;verticalAlign=middle;fontStyle=1;fontFamily=Times New Roman;" parent="_Cq1YtxC5MQAJUo_YYTp-50" source="_Cq1YtxC5MQAJUo_YYTp-38" target="_Cq1YtxC5MQAJUo_YYTp-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
