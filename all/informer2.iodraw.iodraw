@@ -96,7 +96,7 @@
         <mxCell id="DZGh_-k8ClZEZPDrQXv--24" value="掩码多头概率&lt;div&gt;稀疏自注意力&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="546.75" y="166" width="162.5" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="DZGh_-k8ClZEZPDrQXv--25" value="多头自注意力" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="DZGh_-k8ClZEZPDrQXv--25" value="Multi head self attention" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="567" y="106" width="122" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="DZGh_-k8ClZEZPDrQXv--27" target="DZGh_-k8ClZEZPDrQXv--1" edge="1">
