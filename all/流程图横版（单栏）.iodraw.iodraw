@@ -98,7 +98,7 @@
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;align=center;verticalAlign=middle;fontStyle=1" parent="1" source="_Cq1YtxC5MQAJUo_YYTp-28" target="_Cq1YtxC5MQAJUo_YYTp-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-28" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-28" value="start" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-107" y="-134" width="88" height="42" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-75" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;verticalAlign=middle;fontStyle=1" parent="1" source="_Cq1YtxC5MQAJUo_YYTp-35" target="_Cq1YtxC5MQAJUo_YYTp-36" edge="1">
@@ -201,7 +201,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-51" value="&lt;font face=&quot;Times New Roman&quot;&gt;KPCA feature dimensionality reduction process&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;startSize=23;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="580" y="-177" width="287" height="684" as="geometry">
+          <mxGeometry x="580" y="-177" width="295" height="684" as="geometry">
             <mxRectangle x="594" y="-177" width="98" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
