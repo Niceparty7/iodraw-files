@@ -164,7 +164,7 @@
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;verticalAlign=middle;fontStyle=1" parent="1" source="_Cq1YtxC5MQAJUo_YYTp-47" target="_Cq1YtxC5MQAJUo_YYTp-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-47" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;得到投影矩阵，获取降维后数据&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="_Cq1YtxC5MQAJUo_YYTp-47" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;Obtain the projection matrix and obtain the reduced dimensional data&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;align=center;verticalAlign=middle;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="594" y="310" width="174" height="37" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;verticalAlign=middle;fontStyle=1" parent="1" source="_Cq1YtxC5MQAJUo_YYTp-48" target="_Cq1YtxC5MQAJUo_YYTp-49" edge="1">
