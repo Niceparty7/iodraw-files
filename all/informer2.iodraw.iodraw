@@ -373,8 +373,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="273" y="6" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="273" y="7" />
-              <mxPoint x="450" y="7" />
+              <mxPoint x="273" y="-23" />
+              <mxPoint x="450" y="-23" />
               <mxPoint x="450" y="136" />
             </Array>
           </mxGeometry>
