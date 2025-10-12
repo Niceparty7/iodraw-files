@@ -16,7 +16,7 @@
         <mxCell id="DZGh_-k8ClZEZPDrQXv--4" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=1.8000030517578125;fillColor=#8497b0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="163.75" y="101" width="82.5" height="11" as="geometry" />
         </mxCell>
-        <mxCell id="DZGh_-k8ClZEZPDrQXv--5" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;labelBackgroundColor=default;" parent="1" vertex="1" connectable="0">
+        <mxCell id="DZGh_-k8ClZEZPDrQXv--5" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;labelBackgroundColor=default;fillColor=default;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="318" y="177" width="76" height="82" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--6" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" parent="DZGh_-k8ClZEZPDrQXv--5" vertex="1">
@@ -93,10 +93,10 @@
             <mxRectangle width="33" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DZGh_-k8ClZEZPDrQXv--24" value="&lt;div&gt;Mask multi head probability&lt;/div&gt;&lt;div&gt;Sparse self attention&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;labelBackgroundColor=default;" parent="1" vertex="1">
+        <mxCell id="DZGh_-k8ClZEZPDrQXv--24" value="&lt;div&gt;Mask multi head probability&lt;/div&gt;&lt;div&gt;Sparse self attention&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;labelBackgroundColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="546.75" y="166" width="162.5" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="DZGh_-k8ClZEZPDrQXv--25" value="Multi head self attention" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=default;" parent="1" vertex="1">
+        <mxCell id="DZGh_-k8ClZEZPDrQXv--25" value="Multi head self attention" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="567" y="106" width="122" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="DZGh_-k8ClZEZPDrQXv--27" target="DZGh_-k8ClZEZPDrQXv--1" edge="1">
@@ -346,10 +346,10 @@
         <mxCell id="DZGh_-k8ClZEZPDrQXv--79" value="&lt;font&gt;Self Attention Distillation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;labelBackgroundColor=none;fillColor=#CC99FF;" parent="1" vertex="1">
           <mxGeometry x="316" y="98" width="80.5" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="DZGh_-k8ClZEZPDrQXv--80" value="Multi head probability sparse self attention" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=default;" parent="1" vertex="1">
+        <mxCell id="DZGh_-k8ClZEZPDrQXv--80" value="Multi head probability sparse self attention" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="167" y="123" width="76" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="DZGh_-k8ClZEZPDrQXv--81" value="Multi head probability sparse self attention" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=default;" parent="1" vertex="1">
+        <mxCell id="DZGh_-k8ClZEZPDrQXv--81" value="Multi head probability sparse self attention" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="167" y="202" width="76" height="49" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--82" value="&lt;span style=&quot;&quot;&gt;&lt;b&gt;Encoder&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=none;" parent="1" vertex="1">
