@@ -7,7 +7,7 @@
         <mxCell id="DZGh_-k8ClZEZPDrQXv--1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;glass=0;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="120" y="34" width="306" height="263" as="geometry" />
         </mxCell>
-        <mxCell id="DZGh_-k8ClZEZPDrQXv--2" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;fillColor=#99FFCC;opacity=70;" parent="1" vertex="1">
+        <mxCell id="DZGh_-k8ClZEZPDrQXv--2" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;fillColor=#99FF33;opacity=70;" parent="1" vertex="1">
           <mxGeometry x="145" y="101" width="120" height="158" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--3" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=1.8000030517578125;fillColor=#8497b0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" parent="1" vertex="1">
@@ -93,10 +93,10 @@
             <mxRectangle width="33" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DZGh_-k8ClZEZPDrQXv--24" value="&lt;div&gt;Mask multi head probability&lt;/div&gt;&lt;div&gt;Sparse self attention&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;labelBackgroundColor=none;fillColor=#99FFCC;opacity=70;" parent="1" vertex="1">
+        <mxCell id="DZGh_-k8ClZEZPDrQXv--24" value="&lt;div&gt;Mask multi head probability&lt;/div&gt;&lt;div&gt;Sparse self attention&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;labelBackgroundColor=none;fillColor=#99FF33;opacity=70;" parent="1" vertex="1">
           <mxGeometry x="546.75" y="166" width="162.5" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="DZGh_-k8ClZEZPDrQXv--25" value="Multi head self attention" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fillColor=#99FFCC;opacity=70;" parent="1" vertex="1">
+        <mxCell id="DZGh_-k8ClZEZPDrQXv--25" value="Multi head self attention" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fillColor=#99FF33;opacity=70;" parent="1" vertex="1">
           <mxGeometry x="567" y="106" width="122" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="DZGh_-k8ClZEZPDrQXv--27" target="DZGh_-k8ClZEZPDrQXv--1" edge="1">
@@ -383,7 +383,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--87" value="Output" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=none;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="597.5" y="-113" width="76" height="49" as="geometry" />
+          <mxGeometry x="689" y="-113" width="76" height="49" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--88" value="Encoder input：&lt;font&gt;&lt;b&gt;X&lt;sub&gt;en&lt;/sub&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=none;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="193" y="381" width="160" height="49" as="geometry" />
