@@ -28,7 +28,7 @@
         <mxCell id="DZGh_-k8ClZEZPDrQXv--8" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=1.8000030517578125;fillColor=#8497b0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Times New Roman;" parent="DZGh_-k8ClZEZPDrQXv--5" vertex="1">
           <mxGeometry x="17.96" width="40.07" height="6" as="geometry" />
         </mxCell>
-        <mxCell id="DZGh_-k8ClZEZPDrQXv--9" value="Multidimensional feature map" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="DZGh_-k8ClZEZPDrQXv--9" value="Multidimensional feature map" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="148.5" y="6" width="249" height="28" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" parent="1" source="DZGh_-k8ClZEZPDrQXv--11" target="DZGh_-k8ClZEZPDrQXv--77" edge="1">
@@ -343,7 +343,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DZGh_-k8ClZEZPDrQXv--79" value="&lt;font&gt;Self Attention Distillation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;labelBackgroundColor=none;fillColor=#E5CCFF;" parent="1" vertex="1">
+        <mxCell id="DZGh_-k8ClZEZPDrQXv--79" value="&lt;font&gt;Self Attention Distillation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;labelBackgroundColor=none;fillColor=#E5CCFF;" parent="1" vertex="1">
           <mxGeometry x="316" y="98" width="80.5" height="42" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--80" value="Multi head probability sparse self attention" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=none;" parent="1" vertex="1">
