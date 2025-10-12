@@ -241,7 +241,7 @@
         <mxCell id="nyrnJKPdQ7gU-_98maFI-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontStyle=1" parent="1" source="ybC7mdMI05G3Tud_FAIt-77" target="ybC7mdMI05G3Tud_FAIt-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ybC7mdMI05G3Tud_FAIt-79" value="Combination model evaluation" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontStyle=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="ybC7mdMI05G3Tud_FAIt-79" value="Combination model evaluation" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;align=center;verticalAlign=middle;fontStyle=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
           <mxGeometry x="267.75" y="452" width="88" height="46" as="geometry" />
         </mxCell>
         <mxCell id="_Cq1YtxC5MQAJUo_YYTp-96" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1;fontFamily=Times New Roman;" parent="1" vertex="1">
