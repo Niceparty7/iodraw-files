@@ -383,7 +383,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--87" value="Output" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=none;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="669" y="-106" width="76" height="49" as="geometry" />
+          <mxGeometry x="597.5" y="-113" width="76" height="49" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--88" value="Encoder input：&lt;font&gt;&lt;b&gt;X&lt;sub&gt;en&lt;/sub&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=none;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="193" y="381" width="160" height="49" as="geometry" />
