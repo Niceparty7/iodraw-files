@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="24.7.17">
   <diagram id="28q4DWxZexVEzjplPzAg" name="第 1 页">
-    <mxGraphModel dx="2133" dy="1301" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1093" dy="761" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -469,9 +469,6 @@
         <mxCell id="DZGh_-k8ClZEZPDrQXv--280" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;fontColor=default;labelBorderColor=default;resizable=1;shape=flexArrow;fillColor=#00a5e5;" parent="1" source="DZGh_-k8ClZEZPDrQXv--274" target="DZGh_-k8ClZEZPDrQXv--278" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wjjKo9qhx793HdF4s4vm-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DZGh_-k8ClZEZPDrQXv--274" target="wjjKo9qhx793HdF4s4vm-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--274" value="&lt;b&gt;Fusion feature module&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#CCFF99;fontFamily=Times New Roman;direction=south;strokeColor=#ae4132;opacity=70;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="902" y="-76.87" width="60" height="459.87" as="geometry" />
         </mxCell>
@@ -482,9 +479,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="999" y="181.10237375836414" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="wjjKo9qhx793HdF4s4vm-1" value="&lt;b&gt;Fusion feature module&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#CCFF99;fontFamily=Times New Roman;direction=south;strokeColor=#ae4132;opacity=70;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="762" y="-76.87" width="60" height="459.87" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
