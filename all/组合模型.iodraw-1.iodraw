@@ -218,7 +218,7 @@
         <mxCell id="DZGh_-k8ClZEZPDrQXv--270" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=16;fontColor=default;labelBorderColor=default;resizable=1;shape=flexArrow;fillColor=#CC99FF;strokeColor=none;gradientColor=#7ea6e0;" parent="1" source="DZGh_-k8ClZEZPDrQXv--91" target="DZGh_-k8ClZEZPDrQXv--90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DZGh_-k8ClZEZPDrQXv--91" value="&lt;b&gt;One-dimensional convolutional layer&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#7fb3c8;fontFamily=Times New Roman;direction=south;shadow=1;horizontal=0;" parent="1" vertex="1">
+        <mxCell id="DZGh_-k8ClZEZPDrQXv--91" value="&lt;b&gt;One-dimensional convolutional layer&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#7fb3c8;fontFamily=Times New Roman;direction=south;shadow=1;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="-141" y="-76.87" width="85" height="458.75" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--269" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=16;fontColor=default;labelBorderColor=default;resizable=1;shape=flexArrow;fillColor=#00a5e5;" parent="1" source="DZGh_-k8ClZEZPDrQXv--203" target="DZGh_-k8ClZEZPDrQXv--91" edge="1">
@@ -469,10 +469,10 @@
         <mxCell id="DZGh_-k8ClZEZPDrQXv--280" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;fontColor=default;labelBorderColor=default;resizable=1;shape=flexArrow;fillColor=#CC99FF;strokeColor=none;gradientColor=#7ea6e0;" parent="1" source="DZGh_-k8ClZEZPDrQXv--274" target="DZGh_-k8ClZEZPDrQXv--278" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DZGh_-k8ClZEZPDrQXv--274" value="&lt;b&gt;Fusion feature module&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#CCFF99;fontFamily=Times New Roman;direction=south;strokeColor=#ae4132;opacity=70;shadow=1;horizontal=0;" parent="1" vertex="1">
+        <mxCell id="DZGh_-k8ClZEZPDrQXv--274" value="&lt;b&gt;Fusion feature module&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#CCFF99;fontFamily=Times New Roman;direction=south;strokeColor=#ae4132;opacity=70;shadow=1;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="902" y="-76.87" width="60" height="459.87" as="geometry" />
         </mxCell>
-        <mxCell id="DZGh_-k8ClZEZPDrQXv--278" value="&lt;b&gt;Fully connected layer&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#D8F3FF;fontFamily=Times New Roman;direction=south;shadow=1;" parent="1" vertex="1">
+        <mxCell id="DZGh_-k8ClZEZPDrQXv--278" value="&lt;b&gt;Fully connected layer&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#D8F3FF;fontFamily=Times New Roman;direction=south;shadow=1;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="1028" y="-76.87" width="60" height="459.87" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--281" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.234;entryY=0.13;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;fontSize=16;fontColor=default;labelBorderColor=default;resizable=1;shape=flexArrow;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#CC99FF;strokeColor=none;gradientColor=#7ea6e0;" parent="1" source="DZGh_-k8ClZEZPDrQXv--278" target="DZGh_-k8ClZEZPDrQXv--252" edge="1">
