@@ -37,7 +37,7 @@
         <mxCell id="DZGh_-k8ClZEZPDrQXv--11" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="516" y="43" width="220" height="245" as="geometry" />
         </mxCell>
-        <mxCell id="DZGh_-k8ClZEZPDrQXv--12" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="DZGh_-k8ClZEZPDrQXv--12" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;fontFamily=Times New Roman;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="463.25" y="-52" width="325.5" height="39" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--13" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontFamily=Times New Roman;" parent="DZGh_-k8ClZEZPDrQXv--12" vertex="1">
@@ -332,7 +332,7 @@
         <mxCell id="DZGh_-k8ClZEZPDrQXv--76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="DZGh_-k8ClZEZPDrQXv--77" target="DZGh_-k8ClZEZPDrQXv--12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DZGh_-k8ClZEZPDrQXv--77" value="&lt;b&gt;Fully connected layer&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#d8f3ff;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="DZGh_-k8ClZEZPDrQXv--77" value="&lt;b&gt;Fully connected layer&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#d8f3ff;fontFamily=Times New Roman;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="469" y="6" width="314" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DZGh_-k8ClZEZPDrQXv--78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="DZGh_-k8ClZEZPDrQXv--79" target="DZGh_-k8ClZEZPDrQXv--3" edge="1">
