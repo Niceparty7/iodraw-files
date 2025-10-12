@@ -22,19 +22,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g12mu7miM2ZYD0wP9tqr-3" value="Encoder" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3bbeaa;strokeColor=#000000;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="g12mu7miM2ZYD0wP9tqr-3" value="Encoder" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontFamily=Times New Roman;fontStyle=0;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="263.5" y="165" width="73" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g12mu7miM2ZYD0wP9tqr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="g12mu7miM2ZYD0wP9tqr-5" target="g12mu7miM2ZYD0wP9tqr-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g12mu7miM2ZYD0wP9tqr-5" value="Encoder" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3bbeaa;strokeColor=#000000;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="g12mu7miM2ZYD0wP9tqr-5" value="Encoder" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontFamily=Times New Roman;fontStyle=0;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="263.5" y="228" width="73" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LeSBSI7GnFviNyJD8JeN-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g12mu7miM2ZYD0wP9tqr-6" target="LeSBSI7GnFviNyJD8JeN-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="g12mu7miM2ZYD0wP9tqr-6" value="Encoder" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3bbeaa;strokeColor=#000000;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="g12mu7miM2ZYD0wP9tqr-6" value="Encoder" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontFamily=Times New Roman;fontStyle=0;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="263.5" y="284" width="73" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g12mu7miM2ZYD0wP9tqr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="g12mu7miM2ZYD0wP9tqr-7" target="g12mu7miM2ZYD0wP9tqr-13" edge="1">
@@ -81,9 +78,6 @@
         </mxCell>
         <mxCell id="g12mu7miM2ZYD0wP9tqr-24" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 20px; letter-spacing: 3px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;✕&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 20px; letter-spacing: 3px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;N&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="528.5" y="284" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="LeSBSI7GnFviNyJD8JeN-1" value="Encoder" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3bbeaa;strokeColor=#000000;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="263.5" y="174" width="73" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
