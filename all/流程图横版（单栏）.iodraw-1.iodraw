@@ -116,7 +116,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZNDrC8R75FNUpBIXloAY-2" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=0;fontFamily=Times New Roman;" parent="ZNDrC8R75FNUpBIXloAY-1" vertex="1" connectable="0">
+        <mxCell id="ZNDrC8R75FNUpBIXloAY-2" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=0;fontFamily=Times New Roman;labelBackgroundColor=none;" parent="ZNDrC8R75FNUpBIXloAY-1" vertex="1" connectable="0">
           <mxGeometry x="-0.0497" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
