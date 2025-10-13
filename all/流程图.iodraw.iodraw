@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-1" value="&lt;span style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 0px; padding: 0px; font-size: 16px; line-height: 28px; overflow-anchor: auto; text-align: start;&quot;&gt;Acquisition of Raw Carbon emission Data&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="265" y="-152" width="288" height="52" as="geometry" />
+          <mxGeometry x="165" y="-154" width="288" height="52" as="geometry" />
         </mxCell>
         <mxCell id="nyrnJKPdQ7gU-_98maFI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=0" parent="1" source="ybC7mdMI05G3Tud_FAIt-16" target="ybC7mdMI05G3Tud_FAIt-26" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -58,7 +58,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-16" value="&lt;span style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 0px; padding: 0px; font-size: 16px; line-height: 28px; overflow-anchor: auto; text-align: start;&quot;&gt;Data Preprocessing&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="265" y="-86" width="88" height="37" as="geometry" />
+          <mxGeometry x="265" y="-86" width="163" height="37" as="geometry" />
         </mxCell>
         <mxCell id="nyrnJKPdQ7gU-_98maFI-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=0" parent="1" source="ybC7mdMI05G3Tud_FAIt-26" target="ybC7mdMI05G3Tud_FAIt-27" edge="1">
           <mxGeometry relative="1" as="geometry">
