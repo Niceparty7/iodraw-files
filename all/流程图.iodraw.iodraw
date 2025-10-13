@@ -291,7 +291,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-76" value="&lt;span style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 0px; padding: 0px; font-size: 16px; line-height: 28px; overflow-anchor: auto; text-align: start;&quot;&gt;Extraction of Global Features&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="393.5" y="526.5" width="139.5" height="50.5" as="geometry" />
+          <mxGeometry x="387.75" y="534" width="139.5" height="50.5" as="geometry" />
         </mxCell>
         <mxCell id="nyrnJKPdQ7gU-_98maFI-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=0" parent="1" source="ybC7mdMI05G3Tud_FAIt-77" target="ybC7mdMI05G3Tud_FAIt-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
