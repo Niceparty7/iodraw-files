@@ -317,8 +317,8 @@
         <mxCell id="nyrnJKPdQ7gU-_98maFI-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontStyle=0" parent="1" source="nyrnJKPdQ7gU-_98maFI-12" target="nyrnJKPdQ7gU-_98maFI-84" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="188" y="412" />
-              <mxPoint x="309" y="412" />
+              <mxPoint x="188" y="434" />
+              <mxPoint x="309" y="434" />
             </Array>
           </mxGeometry>
         </mxCell>
