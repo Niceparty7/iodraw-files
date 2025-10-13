@@ -297,13 +297,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-77" value="&lt;span style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 0px; padding: 0px; font-size: 16px; line-height: 28px; overflow-anchor: auto; text-align: start;&quot;&gt;Feature Fusion Prediction&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="231" y="601" width="175" height="37" as="geometry" />
+          <mxGeometry x="227.5" y="606" width="175" height="37" as="geometry" />
         </mxCell>
         <mxCell id="nyrnJKPdQ7gU-_98maFI-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=0" parent="1" source="ybC7mdMI05G3Tud_FAIt-78" target="ybC7mdMI05G3Tud_FAIt-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-78" value="&lt;span style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 0px; padding: 0px; font-size: 16px; line-height: 28px; overflow-anchor: auto; text-align: start;&quot;&gt;Predicted Value of the Combined Model&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="265" y="666" width="133" height="30" as="geometry" />
+          <mxGeometry x="265" y="666" width="237" height="62" as="geometry" />
         </mxCell>
         <mxCell id="ybC7mdMI05G3Tud_FAIt-79" value="&lt;span style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 0px; padding: 0px; font-size: 16px; line-height: 28px; overflow-anchor: auto; text-align: start;&quot;&gt;Evaluation of the Combined Model&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="265" y="721" width="88" height="37" as="geometry" />
