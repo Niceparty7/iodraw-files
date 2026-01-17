@@ -4,40 +4,40 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CLkuNCnvzm3EPFsu1dQM-8" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CLkuNCnvzm3EPFsu1dQM-1" target="CLkuNCnvzm3EPFsu1dQM-2">
+        <mxCell id="CLkuNCnvzm3EPFsu1dQM-8" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="CLkuNCnvzm3EPFsu1dQM-1" target="CLkuNCnvzm3EPFsu1dQM-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CLkuNCnvzm3EPFsu1dQM-1" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;第一章 绪论&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-family: 宋体;&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;论述研究背景及意义，分析国内外研究现状及研究路线与框架安排&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="CLkuNCnvzm3EPFsu1dQM-1" value="&lt;span style=&quot;&quot;&gt;第一章 绪论&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;span style=&quot;&quot;&gt;论述研究背景及意义，分析国内外研究现状及研究路线与框架安排&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="296" y="405" width="183" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="CLkuNCnvzm3EPFsu1dQM-9" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CLkuNCnvzm3EPFsu1dQM-2" target="CLkuNCnvzm3EPFsu1dQM-3">
+        <mxCell id="CLkuNCnvzm3EPFsu1dQM-9" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="CLkuNCnvzm3EPFsu1dQM-2" target="CLkuNCnvzm3EPFsu1dQM-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CLkuNCnvzm3EPFsu1dQM-2" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;第二章 相关理论与技术说明&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-family: 宋体;&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;概述时间序列分解、特征融合、融合预测等方法&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="CLkuNCnvzm3EPFsu1dQM-2" value="&lt;span style=&quot;&quot;&gt;第二章 相关理论与技术说明&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;span style=&quot;&quot;&gt;概述时间序列分解、特征融合、融合预测等方法&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="277.5" y="568" width="220" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="CLkuNCnvzm3EPFsu1dQM-10" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CLkuNCnvzm3EPFsu1dQM-3" target="CLkuNCnvzm3EPFsu1dQM-4">
+        <mxCell id="CLkuNCnvzm3EPFsu1dQM-10" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="CLkuNCnvzm3EPFsu1dQM-3" target="CLkuNCnvzm3EPFsu1dQM-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CLkuNCnvzm3EPFsu1dQM-11" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CLkuNCnvzm3EPFsu1dQM-3" target="CLkuNCnvzm3EPFsu1dQM-5">
+        <mxCell id="CLkuNCnvzm3EPFsu1dQM-11" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="CLkuNCnvzm3EPFsu1dQM-3" target="CLkuNCnvzm3EPFsu1dQM-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CLkuNCnvzm3EPFsu1dQM-3" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;第三章 数据预处理与特征分析&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-family: 宋体;&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;说明数据集来源与数据集清洗流程；同时作出特征分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="CLkuNCnvzm3EPFsu1dQM-3" value="&lt;span style=&quot;&quot;&gt;第三章 数据预处理与特征分析&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;span style=&quot;&quot;&gt;说明数据集来源与数据集清洗流程；同时作出特征分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="285" y="713" width="205" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="CLkuNCnvzm3EPFsu1dQM-12" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CLkuNCnvzm3EPFsu1dQM-4" target="CLkuNCnvzm3EPFsu1dQM-6">
+        <mxCell id="CLkuNCnvzm3EPFsu1dQM-12" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="CLkuNCnvzm3EPFsu1dQM-4" target="CLkuNCnvzm3EPFsu1dQM-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CLkuNCnvzm3EPFsu1dQM-4" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;第四章 面向长期碳排放趋势预测的混合模型研究：ICEEMDAN-KPCA-xLSTM-Informer&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="CLkuNCnvzm3EPFsu1dQM-4" value="&lt;span style=&quot;&quot;&gt;第四章 面向长期碳排放趋势预测的混合模型研究：ICEEMDAN-KPCA-xLSTM-Informer&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="109" y="891" width="244" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="CLkuNCnvzm3EPFsu1dQM-13" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CLkuNCnvzm3EPFsu1dQM-5" target="CLkuNCnvzm3EPFsu1dQM-6">
+        <mxCell id="CLkuNCnvzm3EPFsu1dQM-13" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="CLkuNCnvzm3EPFsu1dQM-5" target="CLkuNCnvzm3EPFsu1dQM-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CLkuNCnvzm3EPFsu1dQM-5" value="第五章 面向短期碳排放波动响应的融合预测模型研究：KAN-Transformer" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="414" y="891" width="213" height="88" as="geometry" />
+        <mxCell id="CLkuNCnvzm3EPFsu1dQM-5" value="第五章 面向短期碳排放波动响应的融合预测模型研究：KAN-Transformer" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="431" y="891" width="213" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="CLkuNCnvzm3EPFsu1dQM-6" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;第六章 研究总结与展望&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="CLkuNCnvzm3EPFsu1dQM-6" value="&lt;span style=&quot;&quot;&gt;第六章 研究总结与展望&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="304.5" y="1083" width="166" height="50" as="geometry" />
         </mxCell>
       </root>
