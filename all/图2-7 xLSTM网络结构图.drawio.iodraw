@@ -39,6 +39,9 @@
         <mxCell id="ka5YmVTM_OjVgbvOlxEu-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="202" y="624" width="33" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="ka5YmVTM_OjVgbvOlxEu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.08;entryY=0.623;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ka5YmVTM_OjVgbvOlxEu-10" target="ka5YmVTM_OjVgbvOlxEu-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
