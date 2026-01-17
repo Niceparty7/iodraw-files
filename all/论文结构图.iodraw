@@ -40,8 +40,8 @@
         <mxCell id="JiABUgGAxa4M_2acofrQ-13" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.87;entryY=0.01;rounded=0;fontFamily=宋体;edgeStyle=orthogonalEdgeStyle;shape=flexArrow;fillColor=#7EA6E0;strokeColor=#6c8ebf;" parent="1" source="JiABUgGAxa4M_2acofrQ-6" target="JiABUgGAxa4M_2acofrQ-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CLkuNCnvzm3EPFsu1dQM-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="107" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="CLkuNCnvzm3EPFsu1dQM-1" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;第一章 绪论&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-family: 宋体;&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;论述研究背景及意义，分析国内外研究现状及研究路线与框架安排&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="107" y="480" width="175" height="154" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
