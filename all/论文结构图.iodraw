@@ -38,7 +38,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JiABUgGAxa4M_2acofrQ-13" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.87;entryY=0.01;rounded=0;fontFamily=宋体;edgeStyle=orthogonalEdgeStyle;shape=flexArrow;fillColor=#7EA6E0;strokeColor=#6c8ebf;" parent="1" source="JiABUgGAxa4M_2acofrQ-6" target="JiABUgGAxa4M_2acofrQ-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="649" y="927" />
+              <mxPoint x="524" y="927" />
+              <mxPoint x="524" y="977" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="CLkuNCnvzm3EPFsu1dQM-1" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;第一章 绪论&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-family: 宋体;&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;论述研究背景及意义，分析国内外研究现状及研究路线与框架安排&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="167" y="439" width="183" height="94" as="geometry" />
@@ -53,7 +59,7 @@
           <mxGeometry x="28" y="825" width="183" height="94" as="geometry" />
         </mxCell>
         <mxCell id="CLkuNCnvzm3EPFsu1dQM-5" value="第五章 面向短期碳排放波动响应的融合预测模型研究：KAN-Transformer" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="145" y="962" width="183" height="94" as="geometry" />
+          <mxGeometry x="58" y="1051" width="183" height="94" as="geometry" />
         </mxCell>
         <mxCell id="CLkuNCnvzm3EPFsu1dQM-6" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;第六章 研究总结与展望&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="362" y="1075" width="183" height="94" as="geometry" />
