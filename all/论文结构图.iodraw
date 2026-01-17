@@ -28,16 +28,16 @@
         <mxCell id="CLkuNCnvzm3EPFsu1dQM-12" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;" edge="1" parent="1" source="CLkuNCnvzm3EPFsu1dQM-4" target="CLkuNCnvzm3EPFsu1dQM-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CLkuNCnvzm3EPFsu1dQM-4" value="&lt;span style=&quot;&quot;&gt;第四章 面向长期碳排放趋势预测的混合模型研究：&lt;font face=&quot;Times New Roman&quot;&gt;ICEEMDAN-KPCA-xLSTM-Informer&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="CLkuNCnvzm3EPFsu1dQM-4" value="&lt;span style=&quot;&quot;&gt;&lt;b&gt;第四章 面向长期碳排放趋势预测的混合模型研究：&lt;font face=&quot;Times New Roman&quot;&gt;ICEEMDAN-KPCA-xLSTM-Informer&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="109" y="891" width="244" height="88" as="geometry" />
         </mxCell>
         <mxCell id="CLkuNCnvzm3EPFsu1dQM-13" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="CLkuNCnvzm3EPFsu1dQM-5" target="CLkuNCnvzm3EPFsu1dQM-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CLkuNCnvzm3EPFsu1dQM-5" value="第五章 面向短期碳排放波动响应的融合预测模型研究：&lt;font face=&quot;Times New Roman&quot;&gt;KAN-Transformer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="CLkuNCnvzm3EPFsu1dQM-5" value="&lt;b&gt;第五章 面向短期碳排放波动响应的融合预测模型研究：&lt;font face=&quot;Times New Roman&quot;&gt;KAN-Transformer&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="431" y="891" width="213" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="CLkuNCnvzm3EPFsu1dQM-6" value="&lt;span style=&quot;&quot;&gt;第六章 研究总结与展望&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="CLkuNCnvzm3EPFsu1dQM-6" value="&lt;span style=&quot;&quot;&gt;&lt;b&gt;第六章 研究总结与展望&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="304.5" y="1083" width="166" height="50" as="geometry" />
         </mxCell>
       </root>
