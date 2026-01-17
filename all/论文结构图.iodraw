@@ -4,31 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JiABUgGAxa4M_2acofrQ-2" value="第一章 绪论&#xa;论述研究背景及意义，分析国内外研究现状及研究路线与框架安排" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="410.5" y="442" width="183" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="JiABUgGAxa4M_2acofrQ-12" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontFamily=宋体;edgeStyle=orthogonalEdgeStyle;shape=flexArrow;fillColor=#7EA6E0;strokeColor=#6c8ebf;entryDx=0;entryDy=0;" parent="1" target="CLkuNCnvzm3EPFsu1dQM-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="354" y="876" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="354" y="927" />
-              <mxPoint x="410" y="927" />
-              <mxPoint x="410" y="977" />
-              <mxPoint x="454" y="977" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JiABUgGAxa4M_2acofrQ-13" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.56;entryY=0.035;rounded=0;fontFamily=宋体;edgeStyle=orthogonalEdgeStyle;shape=flexArrow;fillColor=#7EA6E0;strokeColor=#6c8ebf;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="CLkuNCnvzm3EPFsu1dQM-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="649" y="876" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="649" y="927" />
-              <mxPoint x="524" y="927" />
-              <mxPoint x="524" y="977" />
-              <mxPoint x="464" y="977" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CLkuNCnvzm3EPFsu1dQM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CLkuNCnvzm3EPFsu1dQM-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="212.42857142857133" y="546.8571602957588" as="targetPoint" />
@@ -38,7 +13,7 @@
           <mxGeometry x="167" y="439" width="183" height="94" as="geometry" />
         </mxCell>
         <mxCell id="CLkuNCnvzm3EPFsu1dQM-2" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;第二章 相关理论与技术说明&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-family: 宋体;&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;概述时间序列分解、特征融合、融合预测等方法&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="119" y="551" width="183" height="94" as="geometry" />
+          <mxGeometry x="255" y="588" width="183" height="94" as="geometry" />
         </mxCell>
         <mxCell id="CLkuNCnvzm3EPFsu1dQM-3" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;第三章 数据预处理与特征分析&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-family: 宋体;&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;说明数据集来源与数据集清洗流程；同时作出特征分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="51" y="672" width="183" height="94" as="geometry" />
@@ -47,7 +22,7 @@
           <mxGeometry x="28" y="825" width="183" height="94" as="geometry" />
         </mxCell>
         <mxCell id="CLkuNCnvzm3EPFsu1dQM-5" value="第五章 面向短期碳排放波动响应的融合预测模型研究：KAN-Transformer" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="58" y="1051" width="183" height="94" as="geometry" />
+          <mxGeometry x="405" y="734" width="183" height="94" as="geometry" />
         </mxCell>
         <mxCell id="CLkuNCnvzm3EPFsu1dQM-6" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;第六章 研究总结与展望&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="362" y="1075" width="183" height="94" as="geometry" />
