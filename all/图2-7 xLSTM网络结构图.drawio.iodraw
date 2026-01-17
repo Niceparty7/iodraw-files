@@ -333,7 +333,7 @@
         <mxCell id="ka5YmVTM_OjVgbvOlxEu-174" value="&lt;font face=&quot;宋体&quot;&gt;记忆单元&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ka5YmVTM_OjVgbvOlxEu-175">
           <mxGeometry x="106.5" y="381" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ka5YmVTM_OjVgbvOlxEu-176" value="指数门控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ka5YmVTM_OjVgbvOlxEu-176" value="&lt;font style=&quot;font-size: 17px;&quot; face=&quot;宋体&quot;&gt;指数门控&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="732" y="208" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
