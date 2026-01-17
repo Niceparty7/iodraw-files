@@ -366,7 +366,7 @@
             <mxPoint x="169.23000000000002" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ka5YmVTM_OjVgbvOlxEu-203" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDD6E5;" vertex="1" parent="1">
+        <mxCell id="ka5YmVTM_OjVgbvOlxEu-203" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="1150" y="236" width="117" height="43" as="geometry" />
         </mxCell>
         <mxCell id="ka5YmVTM_OjVgbvOlxEu-204" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDD6E5;" vertex="1" parent="1">
@@ -378,7 +378,7 @@
         <mxCell id="ka5YmVTM_OjVgbvOlxEu-206" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDD6E5;" vertex="1" parent="1">
           <mxGeometry x="1150" y="496" width="117" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="ka5YmVTM_OjVgbvOlxEu-207" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDD6E5;" vertex="1" parent="1">
+        <mxCell id="ka5YmVTM_OjVgbvOlxEu-207" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="1150" y="431" width="117" height="43" as="geometry" />
         </mxCell>
       </root>
