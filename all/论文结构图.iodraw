@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CLkuNCnvzm3EPFsu1dQM-2" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;第二章 相关理论与技术说明&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-family: 宋体;&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;概述时间序列分解、特征融合、融合预测等方法&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="294" y="549" width="183" height="94" as="geometry" />
+          <mxGeometry x="294" y="568" width="220" height="75" as="geometry" />
         </mxCell>
         <mxCell id="CLkuNCnvzm3EPFsu1dQM-10" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CLkuNCnvzm3EPFsu1dQM-3" target="CLkuNCnvzm3EPFsu1dQM-4">
           <mxGeometry relative="1" as="geometry" />
