@@ -67,9 +67,6 @@
         <mxCell id="ka5YmVTM_OjVgbvOlxEu-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F2DCDA;fontFamily=宋体;" vertex="1" parent="ka5YmVTM_OjVgbvOlxEu-18">
           <mxGeometry x="97" width="33" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="ka5YmVTM_OjVgbvOlxEu-20" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fontFamily=宋体;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="595.5" y="155.5" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="ka5YmVTM_OjVgbvOlxEu-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=宋体;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="627.5" y="224.5" width="55" height="55" as="geometry" />
         </mxCell>
@@ -102,9 +99,6 @@
             <mxPoint x="618" y="284" as="sourcePoint" />
             <mxPoint x="650" y="199" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ka5YmVTM_OjVgbvOlxEu-36" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fontFamily=宋体;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="480" y="264" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ka5YmVTM_OjVgbvOlxEu-37" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=宋体;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="473" y="224" width="55" height="55" as="geometry" />
