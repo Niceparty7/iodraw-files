@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CLkuNCnvzm3EPFsu1dQM-3" value="&lt;span style=&quot;&quot;&gt;&lt;b&gt;第三章 数据预处理与特征分析&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;span style=&quot;&quot;&gt;说明数据集来源与数据集清洗流程；同时作出特征分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="285" y="714" width="205" height="75" as="geometry" />
+          <mxGeometry x="285" y="723" width="205" height="75" as="geometry" />
         </mxCell>
         <mxCell id="CLkuNCnvzm3EPFsu1dQM-12" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fillColor=#3399FF;strokeColor=#6c8ebf;" edge="1" parent="1" source="CLkuNCnvzm3EPFsu1dQM-4" target="CLkuNCnvzm3EPFsu1dQM-6">
           <mxGeometry relative="1" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="435" y="891" width="231" height="88" as="geometry" />
         </mxCell>
         <mxCell id="CLkuNCnvzm3EPFsu1dQM-6" value="&lt;span style=&quot;&quot;&gt;&lt;b&gt;第六章 研究总结与展望&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="304.5" y="1064" width="166" height="50" as="geometry" />
+          <mxGeometry x="304.5" y="1062" width="166" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
