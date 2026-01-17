@@ -19,7 +19,7 @@
         <mxCell id="JiABUgGAxa4M_2acofrQ-6" value="第五章 面向短期碳排放波动响应的融合预测模型研究：KAN-Transformer&#xa;" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="527" y="792" width="244" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="JiABUgGAxa4M_2acofrQ-7" value="第六章 研究总结与展望" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="JiABUgGAxa4M_2acofrQ-7" value="第六章 研究总结与展望" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="405" y="977" width="194" height="48" as="geometry" />
         </mxCell>
         <mxCell id="JiABUgGAxa4M_2acofrQ-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontFamily=宋体;shape=flexArrow;fillColor=#7EA6E0;" parent="1" source="JiABUgGAxa4M_2acofrQ-2" target="JiABUgGAxa4M_2acofrQ-3" edge="1">
