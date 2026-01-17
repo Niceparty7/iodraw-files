@@ -35,10 +35,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CLkuNCnvzm3EPFsu1dQM-5" value="第五章 面向短期碳排放波动响应的融合预测模型研究：KAN-Transformer" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="434" y="891" width="213" height="94" as="geometry" />
+          <mxGeometry x="434" y="891" width="213" height="88" as="geometry" />
         </mxCell>
         <mxCell id="CLkuNCnvzm3EPFsu1dQM-6" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;第六章 研究总结与展望&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="326" y="1083" width="183" height="94" as="geometry" />
+          <mxGeometry x="326" y="1083" width="166" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
