@@ -327,7 +327,7 @@
         <mxCell id="ka5YmVTM_OjVgbvOlxEu-173" value="&lt;font face=&quot;宋体&quot;&gt;循环训练&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="226" y="203" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ka5YmVTM_OjVgbvOlxEu-174" value="&lt;font face=&quot;宋体&quot;&gt;循环训练&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ka5YmVTM_OjVgbvOlxEu-174" value="&lt;font face=&quot;宋体&quot;&gt;记忆单元&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="225" y="421" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
