@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CLkuNCnvzm3EPFsu1dQM-1" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;第一章 绪论&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-family: 宋体;&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;论述研究背景及意义，分析国内外研究现状及研究路线与框架安排&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="296" y="398" width="183" height="94" as="geometry" />
+          <mxGeometry x="296" y="405" width="183" height="87" as="geometry" />
         </mxCell>
         <mxCell id="CLkuNCnvzm3EPFsu1dQM-9" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CLkuNCnvzm3EPFsu1dQM-2" target="CLkuNCnvzm3EPFsu1dQM-3">
           <mxGeometry relative="1" as="geometry" />
@@ -29,16 +29,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CLkuNCnvzm3EPFsu1dQM-4" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;第四章 面向长期碳排放趋势预测的混合模型研究：ICEEMDAN-KPCA-xLSTM-Informer&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="179" y="891" width="183" height="94" as="geometry" />
+          <mxGeometry x="138" y="891" width="183" height="94" as="geometry" />
         </mxCell>
         <mxCell id="CLkuNCnvzm3EPFsu1dQM-13" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CLkuNCnvzm3EPFsu1dQM-5" target="CLkuNCnvzm3EPFsu1dQM-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CLkuNCnvzm3EPFsu1dQM-5" value="第五章 面向短期碳排放波动响应的融合预测模型研究：KAN-Transformer" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="576" y="855" width="183" height="94" as="geometry" />
+          <mxGeometry x="434" y="891" width="183" height="94" as="geometry" />
         </mxCell>
         <mxCell id="CLkuNCnvzm3EPFsu1dQM-6" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;第六章 研究总结与展望&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="161" y="1057" width="183" height="94" as="geometry" />
+          <mxGeometry x="294" y="1086" width="183" height="94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
