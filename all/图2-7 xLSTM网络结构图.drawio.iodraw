@@ -240,10 +240,10 @@
           <mxGeometry x="28" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="ka5YmVTM_OjVgbvOlxEu-140" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=宋体;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="481.1118881118881" y="225.42727272727274" width="49.25" height="49.25" as="geometry" />
+          <mxGeometry x="446.2618881118881" y="416.3772727272727" width="49.25" height="49.25" as="geometry" />
         </mxCell>
         <mxCell id="ka5YmVTM_OjVgbvOlxEu-141" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F2DCDA;fontFamily=宋体;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="467.84615384615387" y="236.1727272727273" width="29.55" height="29.55" as="geometry" />
+          <mxGeometry x="432.99615384615385" y="427.1227272727273" width="29.55" height="29.55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
