@@ -8,7 +8,7 @@
           <mxGeometry x="171" y="281" width="120" height="68" as="geometry" />
         </mxCell>
         <mxCell id="ka5YmVTM_OjVgbvOlxEu-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;Sigmoid&lt;/font&gt;门控机制" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#F2DCDA;" vertex="1" parent="1">
-          <mxGeometry x="171" y="378" width="121" height="40" as="geometry" />
+          <mxGeometry x="161.5" y="401" width="121" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ka5YmVTM_OjVgbvOlxEu-18" value="" style="group;fontFamily=宋体;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="106" y="569" width="232" height="101" as="geometry" />
