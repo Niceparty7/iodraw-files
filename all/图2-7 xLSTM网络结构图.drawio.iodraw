@@ -266,9 +266,6 @@
         <mxCell id="ka5YmVTM_OjVgbvOlxEu-171" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="117" y="704" width="273" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="ka5YmVTM_OjVgbvOlxEu-4" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="161" y="350" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="ka5YmVTM_OjVgbvOlxEu-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="226" y="343" width="55" height="55" as="geometry" />
         </mxCell>
@@ -281,8 +278,9 @@
         <mxCell id="ka5YmVTM_OjVgbvOlxEu-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="336" y="389" width="35" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="ka5YmVTM_OjVgbvOlxEu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="ka5YmVTM_OjVgbvOlxEu-8" target="ka5YmVTM_OjVgbvOlxEu-4">
+        <mxCell id="ka5YmVTM_OjVgbvOlxEu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="ka5YmVTM_OjVgbvOlxEu-8">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="241" y="410" as="targetPoint" />
             <Array as="points">
               <mxPoint x="210" y="410" />
               <mxPoint x="210" y="410" />
