@@ -23,13 +23,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CLkuNCnvzm3EPFsu1dQM-3" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;第三章 数据预处理与特征分析&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-family: 宋体;&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;说明数据集来源与数据集清洗流程；同时作出特征分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="294" y="713" width="208" height="75" as="geometry" />
+          <mxGeometry x="294" y="713" width="205" height="75" as="geometry" />
         </mxCell>
         <mxCell id="CLkuNCnvzm3EPFsu1dQM-12" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CLkuNCnvzm3EPFsu1dQM-4" target="CLkuNCnvzm3EPFsu1dQM-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CLkuNCnvzm3EPFsu1dQM-4" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;第四章 面向长期碳排放趋势预测的混合模型研究：ICEEMDAN-KPCA-xLSTM-Informer&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="138" y="891" width="183" height="94" as="geometry" />
+          <mxGeometry x="138" y="891" width="244" height="94" as="geometry" />
         </mxCell>
         <mxCell id="CLkuNCnvzm3EPFsu1dQM-13" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CLkuNCnvzm3EPFsu1dQM-5" target="CLkuNCnvzm3EPFsu1dQM-6">
           <mxGeometry relative="1" as="geometry" />
