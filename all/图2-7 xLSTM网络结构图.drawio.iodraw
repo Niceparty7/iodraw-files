@@ -436,10 +436,10 @@
           <mxGeometry x="190.25" y="248" width="138.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ka5YmVTM_OjVgbvOlxEu-172" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 17px;&quot;&gt;循环推断&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="213.25" y="290" width="92.5" height="29" as="geometry" />
+          <mxGeometry x="213.25" y="320" width="92.5" height="29" as="geometry" />
         </mxCell>
         <mxCell id="ka5YmVTM_OjVgbvOlxEu-173" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 17px;&quot;&gt;循环训练&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="214.25" y="311" width="90.5" height="36" as="geometry" />
+          <mxGeometry x="214.25" y="341" width="90.5" height="36" as="geometry" />
         </mxCell>
         <mxCell id="ka5YmVTM_OjVgbvOlxEu-174" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 17px;&quot;&gt;记忆单元&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="213.75" y="520" width="88.5" height="29" as="geometry" />
