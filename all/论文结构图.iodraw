@@ -7,13 +7,13 @@
         <mxCell id="JiABUgGAxa4M_2acofrQ-2" value="第一章 绪论&#xa;论述研究背景及意义，分析国内外研究现状及研究路线与框架安排" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="410.5" y="442" width="183" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="JiABUgGAxa4M_2acofrQ-3" value="第二章 相关理论与技术说明&#xa;概述时间序列分解、特征融合、融合预测等方法" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="JiABUgGAxa4M_2acofrQ-3" value="" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="389" y="577" width="226" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="JiABUgGAxa4M_2acofrQ-4" value="第三章 数据预处理与特征分析&#xa;说明数据集来源与数据集清洗流程；同时作出特征分析" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="JiABUgGAxa4M_2acofrQ-4" value="" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="391" y="676" width="222" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="JiABUgGAxa4M_2acofrQ-5" value="第四章 面向长期碳排放趋势预测的混合模型研究：ICEEMDAN-KPCA-xLSTM-Informer" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="JiABUgGAxa4M_2acofrQ-5" value="" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="231" y="792" width="246" height="84" as="geometry" />
         </mxCell>
         <mxCell id="JiABUgGAxa4M_2acofrQ-6" value="第五章 面向短期碳排放波动响应的融合预测模型研究：KAN-Transformer&#xa;" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontFamily=宋体;" parent="1" vertex="1">
@@ -43,13 +43,13 @@
         <mxCell id="CLkuNCnvzm3EPFsu1dQM-1" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;第一章 绪论&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-family: 宋体;&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;论述研究背景及意义，分析国内外研究现状及研究路线与框架安排&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="167" y="439" width="183" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="CLkuNCnvzm3EPFsu1dQM-2" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;第一章 绪论&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-family: 宋体;&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;论述研究背景及意义，分析国内外研究现状及研究路线与框架安排&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="CLkuNCnvzm3EPFsu1dQM-2" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;第二章 相关理论与技术说明&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-family: 宋体;&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;概述时间序列分解、特征融合、融合预测等方法&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="119" y="551" width="183" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="CLkuNCnvzm3EPFsu1dQM-3" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;第一章 绪论&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-family: 宋体;&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;论述研究背景及意义，分析国内外研究现状及研究路线与框架安排&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="CLkuNCnvzm3EPFsu1dQM-3" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;第三章 数据预处理与特征分析&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-family: 宋体;&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;说明数据集来源与数据集清洗流程；同时作出特征分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="51" y="672" width="183" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="CLkuNCnvzm3EPFsu1dQM-4" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;第一章 绪论&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-family: 宋体;&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;论述研究背景及意义，分析国内外研究现状及研究路线与框架安排&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="CLkuNCnvzm3EPFsu1dQM-4" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;第四章 面向长期碳排放趋势预测的混合模型研究：ICEEMDAN-KPCA-xLSTM-Informer&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="28" y="825" width="183" height="94" as="geometry" />
         </mxCell>
         <mxCell id="CLkuNCnvzm3EPFsu1dQM-5" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;第一章 绪论&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-family: 宋体;&quot;&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;论述研究背景及意义，分析国内外研究现状及研究路线与框架安排&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
